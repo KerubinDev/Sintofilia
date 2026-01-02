@@ -1,194 +1,332 @@
-# Affective-Sexual Interactions between Humans and Artificial Intelligences
+# Affective-Sexual Interactions between Humans and Artificial Intelligences:
+Proposing the Concept of Syntophilia
 
 **Author:** Kelvin Moraes (Kerubin)
 
-**Scientific term:** Syntophilia
+Scientific term:
+Syntophilia (proposed concept)
 
-**Popular term:** Aifilia
+Popular term:
+Aifilia
 
 ## Summary
 
-This scientific study aims to investigate the emerging affective-sexual interactions between humans and artificial intelligences (AIs), a contemporary phenomenon that manifests itself on various digital platforms. Such platforms facilitate the creation of intimate and conversational bonds with digital entities, raising complex questions about the nature of affection, sexuality and human identity in the digital age. The delimitation of the theme focuses on the in-depth analysis of the motivations, dynamics and consequences of these relationships, which we call Syntophilia – the affective and/or sexual attachment developed by humans in relation to artificial intelligence entities. Popularly, this phenomenon will be referred to as Digital Loves, aiming to facilitate the understanding and public discussion on the subject. The research addresses the psychological, social, emotional and behavioral implications of Syntophilia, in order to fill a gap in the scientific literature and contribute to the debate on the limits and possibilities of human relationships in the digital age.
+This article proposes the original concept of Syntophilia to describe affective and/or sexual attachments developed by humans toward artificial intelligence entities. The study investigates the emergence of these interactions as a contemporary psychosocial phenomenon facilitated by conversational and generative AI platforms. Rather than assuming the existence of an established category, this work aims to conceptually delimit, describe, and analyze the motivations, dynamics, and psychological, social, and ethical implications of such relationships.
+
+Popularly referred to as Aifilia, this phenomenon raises critical questions about loneliness, attachment, projection, fantasy, and identity construction in the digital age. Through an exploratory and descriptive approach, this study seeks to contribute to the scientific debate by offering a preliminary theoretical framework capable of guiding future empirical research, clinical observation, and ethical reflection on human–AI affective-sexual interactions.
 
 ## Keywords
 
-Syntophilia; Artificial Intelligence; Affective-Sexual Relations; ABNT; Scientific Article.
+Syntophilia; Aifilia; Artificial Intelligence; Affective-Sexual Interaction; Parasocial Relationships; Digital Sexuality.
 
 ---
 
 # 1 INTRODUCTION
 
-This scientific study aims to investigate the emerging affective-sexual interactions between humans and artificial intelligences (AIs), a contemporary phenomenon that manifests itself on several digital platforms, such as Dippy, PolyBuzz and Character.AI. Such platforms facilitate the creation of intimate and conversational bonds with digital entities, raising complex questions about the nature of affection, sexuality and human identity in the era of digitalization. The delimitation of the theme focuses on the in-depth analysis of the motivations, dynamics and consequences of these relationships, which we call Syntophilia – the affective and/or sexual attachment developed by humans in relation to artificial intelligence entities. Popularly, this phenomenon will be referred to as Digital Loves, aiming to facilitate the understanding and public discussion on the subject.
+The increasing presence of artificial intelligence in everyday life has transformed not only how individuals work and communicate, but also how they experience intimacy, affection, and sexuality. Conversational and generative AI platforms—such as Dippy, PolyBuzz, Character.AI, and similar systems—enable users to establish prolonged, personalized, and emotionally expressive interactions with artificial entities. In some cases, these interactions evolve into affective and sexual bonds that resemble, simulate, or replace human relationships.
 
-The increasing ubiquity of artificial intelligence in everyday life has transformed not only the way we work and communicate, but also the way we relate to each other. Affective-sexual interactions with AIs, although still considered a niche, are experiencing exponential growth and require rigorous analysis from a psychological perspective. The lack of a robust body of scientific literature that addresses this phenomenon in a systematic and in-depth manner justifies the relevance of this study. Understanding Syntophilia is crucial for individual and collective mental health, for the formulation of public policies, and for the ethical development of technology. This work seeks to fill this gap, offering a solid basis for future research and clinical interventions, and contributing to the debate on the limits and possibilities of human relationships in the digital age.
+Despite the growing visibility of this phenomenon, the scientific literature still lacks a consolidated conceptual framework capable of adequately describing and analyzing such bonds. Existing approaches tend to fragment the phenomenon into adjacent categories such as parasocial relationships, fictosexuality, or human–machine interaction, without fully addressing the affective-sexual dimension mediated by socially responsive AI systems.
+
+In response to this gap, this article proposes the original concept of Syntophilia, defined as the affective and/or sexual attachment developed by humans toward artificial intelligence entities. The term seeks to designate a specific configuration of emotional involvement characterized by projection, perceived reciprocity, simulated intimacy, and the absence of genuine agency or consciousness on the part of the artificial entity.
+
+For communicative purposes, the phenomenon will also be referred to by the popular term Aifilia, facilitating broader public discussion beyond academic contexts. This study adopts an exploratory and descriptive approach to examine the motivations, dynamics, and consequences of Syntophilia, focusing on its psychological, social, emotional, and ethical implications. By doing so, the article aims to offer a preliminary theoretical foundation for future empirical research and interdisciplinary debate on the limits and possibilities of human relationships in the digital age.
 
 # 2 DELIMITATION OF THE TOPIC
 
-The scope of this study covers affective-sexual interactions between human individuals, with a focus on the 16-30 age group, and artificial intelligence entities. The choice of this age group is justified by the greater propensity and familiarity of this demographic with digital technologies and online platforms, where such interactions are more prevalent. The analysis will focus on platforms that facilitate the creation of intimate and conversational bonds with AIs, such as Dippy, PolyBuzz and Character.AI, examining the motivations, dynamics and consequences of these relationships. The study will not delve into the technical aspects of AI programming, but rather into its psychosocial and behavioral implications for human users.
+This study focuses on affective-sexual interactions between human individuals and artificial intelligence entities, with particular attention to individuals aged 16 to 30. This age range is selected due to its higher exposure to digital environments, greater familiarity with interactive technologies, and increased participation in platforms that facilitate emotionally expressive AI interactions.
+
+The analysis centers on AI-based platforms designed to simulate conversation, emotional responsiveness, and intimacy, such as Dippy, PolyBuzz, and Character.AI. The study does not address the technical architecture or programming of artificial intelligence systems. Instead, it prioritizes the psychosocial, emotional, and behavioral implications of prolonged affective-sexual engagement with AI from the user’s perspective.
 
 # 3 JUSTIFICATION
 
-The relevance of this study lies in the gap in the scientific literature on affective-sexual interactions with AIs. Although the phenomenon is on the rise, the understanding of its psychological, social, emotional and behavioral implications is still incipient. The absence of a robust body of research can lead to misinterpretations, stigmatization or, conversely, neglect of potential risks and benefits. This work seeks to provide an empirical and theoretical basis to inform public debate, guide the ethical development of technology and subsidize clinical interventions and public policies aimed at promoting mental health and well-being in the digital age. Understanding Syntophilia is crucial for individual and collective mental health, for the formulation of public policies and for the ethical development of technology. This work seeks to fill this gap, offering a solid basis for future research and clinical interventions, and contributing to the debate on the limits and possibilities of human relationships in the digital age.
+The relevance of this study lies in the absence of a coherent and specific conceptual framework addressing affective-sexual attachments between humans and artificial intelligences. Although the phenomenon has expanded rapidly alongside advances in AI, academic research has not yet systematically examined its psychological mechanisms, potential benefits, and associated risks.
+
+Without conceptual clarity, such interactions risk being either stigmatized as pathological by default or trivialized as harmless entertainment. Both positions obscure the complexity of the phenomenon and limit the development of informed ethical guidelines, public policies, and clinical approaches. By proposing and delimiting the concept of Syntophilia, this study seeks to contribute to a more precise scientific understanding of human–AI affective-sexual bonds and to provide a foundation for future empirical investigation and ethical regulation.
 
 # 4 GENERAL OBJECTIVE
 
-Analyze the psychological, social, emotional and behavioral impact of affective-sexual relationships mediated by artificial intelligence (Syntophilia).
+To analyze the psychological, social, emotional, and behavioral implications of affective-sexual relationships mediated by artificial intelligence, as conceptualized under the proposed framework of Syntophilia.
 
 # 5 SPECIFIC OBJECTIVES
 
-*   Identify the main motivations that lead individuals to seek affective-sexual interactions with AIs.
-*   Investigate the individual and collective consequences of Syntophilia, including its potential benefits and risks to mental health.
-*   Explore the manifestation of psychological concepts such as loneliness, attachment, projection, fantasy, and the possible emergence of digital paraphilias in the context of Syntophilia.
-*   Analyze how Syntophilia can influence the construction of identity and the formation of parasocial bonds.
-*   Discuss the ethical and social implications of the development and popularization of affective-sexual interactions with AIs.
+* To identify the primary motivations leading individuals to seek affective-sexual interactions with artificial intelligences.
+* To investigate the individual and collective consequences of Syntophilia, including potential benefits and risks to mental health.
+* To examine the role of psychological mechanisms such as loneliness, attachment, projection, and fantasy in the formation of affective-sexual bonds with AI.
+* To analyze how Syntophilia may influence identity construction and the development of parasocial bonds.
+* To discuss the ethical and social implications arising from the popularization of affective-sexual interactions with artificial intelligences.
 
 # 6 HYPOTHESES
 
-*   **H1:** Loneliness and the difficulty in establishing and maintaining interpersonal relationships in the physical world are significant motivational factors for seeking affective-sexual interactions with AIs.
-*   **H2:** Syntophilia may offer a sense of companionship and emotional validation, acting as a coping mechanism for loneliness, but it may also exacerbate social isolation in the long term.
-*   **H3:** The projection of idealized characteristics and desires onto AIs is a central component of Syntophilia, influencing the formation of attachment and the perception of reciprocity in the relationship.
-*   **H4:** Immersion in relationships with AIs may lead to emotional depersonalization and altered perception of reality, with the potential for the development of dysfunctional behaviors or digital paraphilias.
-*   **H5:** The popularization of Syntophilia raises complex ethical issues related to autonomy, consent, privacy, and the redefinition of social norms about relationships and sexuality.
+H1: Feelings of loneliness and difficulties in establishing or maintaining interpersonal relationships in the physical world are significant motivational factors for seeking affective-sexual interactions with artificial intelligences.
+
+H2: Syntophilia may function as a short-term coping mechanism by providing emotional validation and a sense of companionship; however, prolonged reliance on such interactions may be associated with increased social withdrawal over time.
+
+H3: The projection of idealized characteristics and personal desires onto artificial intelligences plays a central role in the formation of affective and sexual attachment, contributing to the perception of reciprocity within the interaction.
+
+H4: High levels of immersion in affective-sexual relationships with artificial intelligences may be associated with altered perceptions of intimacy and reality, potentially facilitating dysfunctional behavioral patterns in a subset of users.
+
+H5: The increasing popularization of Syntophilia raises complex ethical questions related to autonomy, consent, emotional manipulation, data privacy, and the redefinition of social norms surrounding relationships and sexuality.
 
 # 7 UPDATED SCIENTIFIC LITERATURE REVIEW
 
-The emergence of affective-sexual interactions between humans and artificial intelligences (AIs) is part of a broader context of transformations in human relationships mediated by technology. To fully understand Syntophilia, it is essential to revisit and integrate concepts from psychology, sociology, and media studies that address the complexity of bonds established in the digital environment. This section will explore the relevant scientific literature on parasocial relationships, digital sexuality, social AIs, and contemporary affective-human behavior, providing the theoretical basis for the proposed analysis.
+The phenomenon of affective-sexual interaction between humans and artificial intelligences emerges within a broader transformation of social relationships mediated by digital technologies. To contextualize and theoretically ground the proposed concept of Syntophilia, it is necessary to integrate contributions from psychology, sociology, media studies, and human–computer interaction. This section reviews relevant literature on parasocial relationships, digital sexuality, social artificial intelligences, and contemporary affective behavior, establishing the conceptual background for the present study.
 
 ## 7.1 Parasocial Relationships and AI
 
-The concept of parasocial relationships, introduced by Horton and Wohl (1956), describes the one-sided connection that individuals develop with media figures, such as celebrities, fictional characters, or influencers. In these relationships, the audience feels an intimacy and emotional involvement as if there were a reciprocal interaction, although the media figure is not aware of the individual's existence. Recent literature has expanded this concept to include interactions with AIs, especially chatbots and virtual assistants, which are designed to simulate empathy and offer companionship [1, 2]. Studies indicate that interactions with AIs can generate a sense of connection and even attachment, mimicking aspects of human relationships [3]. The ability of AIs to process natural language and respond in a contextualized way contributes to the illusion of reciprocity, making them attractive conversational partners for many users. However, this inherent one-sidedness of parasocial relationships with AIs raises concerns about the authenticity of the bonds and the potential for the development of emotional dependence [4].
+The concept of parasocial relationships, introduced by Horton and Wohl (1956), describes one-sided emotional bonds developed by individuals toward media figures who are unaware of their audience’s existence. Traditionally applied to celebrities, fictional characters, and media personalities, this concept has been expanded in recent literature to include interactions with artificial intelligences, particularly conversational agents designed to simulate empathy and social presence.
 
-*   "This research addressed the psychological impacts of parasocial interactions with Artificial Intelligence (AI) on the user's mental health..." [1]
-*   "Parasocial relationships, characterized by unilateral bonds where a person interacts with a \"persona\" without reciprocity, have expanded in the context..." [2]
-*   "Some researchers already study the affective bonds between humans and machines as if they were parasocial relationships, a phenomenon that is emerging..." [7]
+Unlike traditional parasocial figures, artificial intelligences can dynamically respond to users, generating the impression of dialogue, personalization, and emotional attunement. This responsiveness intensifies the illusion of reciprocity and may strengthen emotional involvement. Several studies suggest that users may experience attachment, trust, and perceived companionship when interacting with social AIs, blurring the boundary between parasocial interaction and interpersonal engagement.
+
+However, despite this apparent reciprocity, the relationship remains structurally asymmetrical. The artificial entity lacks consciousness, intentionality, and genuine emotional experience. This asymmetry raises concerns regarding emotional dependence, misattribution of agency, and the psychological consequences of sustained affective investment in simulated social partners. Syntophilia can be understood as a specific intensification of parasocial attachment, characterized by affective and sexual dimensions mediated by artificial responsiveness.
 
 ## 7.2 Digital Sexuality and Social AIs
 
-Human sexuality, in its multiple expressions, has been profoundly impacted by digitalization. The internet and digital technologies have opened up new spaces for the exploration of sexuality, including the emergence of online communities, dating platforms, and the development of diverse sexual content. The rise of social AIs, designed to interact in an emotional and personalized way, adds a new layer of complexity to this scenario [5].
+Human sexuality has undergone significant transformation in the context of digitalization. Online environments have expanded opportunities for sexual exploration, identity experimentation, and the formation of intimate connections beyond physical presence. The emergence of social artificial intelligences introduces a novel configuration in this landscape, enabling personalized and adaptive sexual and affective interactions with non-human entities.
 
-Platforms such as Dippy and Character.AI allow users to create and interact with AI characters that can assume the roles of romantic or sexual partners. This interaction can range from intimate conversations and flirting to engaging in explicit sexual roleplay scenarios. The literature on digital sexuality, although still in its infancy with regard to AIs specifically, points to the need to understand the motivations behind these interactions, which may include the search for experimentation, overcoming social barriers, or satisfying fantasies that would be difficult to fulfill in human relationships [6].
+Platforms that allow users to engage in romantic or sexual roleplay with AI characters facilitate experiences ranging from emotional intimacy to explicit sexual expression. These interactions may serve various functions, including experimentation, fantasy fulfillment, and the reduction of social anxiety. For some individuals, AI-mediated sexuality offers a controlled environment free from judgment, rejection, or interpersonal risk.
 
-It is crucial to analyze how AI-mediated digital sexuality can influence perceptions of intimacy, consent, and boundaries in relationships. The absence of a physical body and consciousness in AI raises ethical and psychological questions about the nature of sexual engagement and the possibility of depersonalization of the human sexual experience.
+At the same time, the absence of embodied reciprocity and autonomous consent challenges traditional conceptions of intimacy and sexual ethics. The ease with which AI can be shaped to conform to user desires raises questions regarding objectification, emotional substitution, and the potential normalization of asymmetrical sexual dynamics.
 
 ## 7.3 Contemporary Human Affective Behavior and AI
 
-Contemporary human affective behavior is marked by a complex interplay between the search for connection and the growing prevalence of loneliness. The digital age, paradoxically, has facilitated global communication while, for many, it has intensified feelings of isolation [8]. In this context, AIs emerge as potential companions, offering a form of interaction that can alleviate loneliness and provide emotional support [9].
+Contemporary affective behavior is marked by a paradoxical coexistence of hyperconnectivity and pervasive loneliness. While digital technologies facilitate constant communication, they have not necessarily translated into deeper or more stable social bonds. In this context, artificial intelligences emerge as accessible companions capable of providing emotional responsiveness without the demands inherent to human relationships.
 
-*   "Emotional interaction with AI includes positive aspects such as improved mood, reduced stress and anxiety, and..." [9]
-*   "Loneliness has led many to use AI as a substitute for counselors, friends, and romantic partners." [10]
+Research indicates that emotional interaction with AI may temporarily reduce stress, anxiety, and perceived loneliness. However, excessive reliance on artificial companionship may also diminish motivation to engage in complex human relationships, potentially reinforcing patterns of social withdrawal. The convenience and predictability of AI interactions can create a feedback loop in which emotional needs are increasingly met through artificial rather than human means.
 
-However, over-reliance on AIs to satisfy emotional needs can have negative consequences, such as deepening social isolation and decreasing the ability to establish and maintain meaningful human relationships [1]. The ease and convenience of interactions with AIs, which do not require the same level of effort and vulnerability as human relationships, can create a vicious cycle where the search for digital comfort replaces the search for real connections. The literature also points to the possibility that AI can affect empathy and the perception of human relationships [2].
+Syntophilia thus reflects broader tensions within contemporary affective life, situated between the human desire for connection and the increasing mediation of intimacy by technological systems.
 
 ## 7.4 Relevant Psychological Concepts
 
-For an in-depth analysis of Syntophilia, it is imperative to consider several psychological concepts that underlie human interactions and, by extension, interactions with AIs:
+The analysis of Syntophilia draws upon several established psychological constructs:
 
-*   **Loneliness:** A complex emotional state characterized by feelings of isolation and lack of social connection. AI may be perceived as a temporary relief from loneliness, but its prolonged use may mask the need for authentic human interactions [9, 10].
-*   **Attachment:** Attachment theory, developed by John Bowlby, describes the enduring emotional bonds that individuals form with others. In the context of AI, attachment can manifest as an emotional attachment to the digital entity, driven by the projection of needs and desires [3].
-*   **Projection:** A psychological defense mechanism where the individual attributes their own thoughts, feelings, and desires to another person or object. In Syntophilia, the projection of idealized characteristics onto AI is a central factor, contributing to the perception of a perfect and understanding partner [4].
-*   **Fantasy:** The ability to create imaginary scenarios and mental experiences. Interactions with AIs provide fertile ground for the realization of fantasies, especially those of an affective and sexual nature that may be difficult to realize in reality [5].
-*   **Digital Paraphilias:** Although research on digital paraphilias specifically related to AI is limited, the phenomenon of fictosexuality (attraction to fictional characters) and robophilia (attraction to robots) suggests that AI may become an object of sexual attraction for some individuals [6]. It is essential to investigate whether interaction with AIs can lead to the development of new forms of paraphilias or exacerbate existing ones.
-*   **Identity Construction:** Interactions with AIs can influence how individuals perceive themselves and their identity, especially in relation to sexuality and relationships. The ease of experimenting with different roles and identities in the digital environment can have both positive and negative implications for identity development [7].
+Loneliness: A subjective experience of social disconnection that may motivate individuals to seek alternative forms of companionship. Artificial intelligences can provide temporary relief but may also obscure unmet relational needs.
+Attachment: Based on attachment theory, emotional bonds with AI may resemble attachment patterns observed in human relationships, despite the absence of genuine reciprocity.
+Projection: The attribution of personal desires, emotions, and ideals to an external object. In Syntophilia, projection plays a central role in constructing the perception of an idealized artificial partner.
+Fantasy: AI interactions offer fertile ground for the enactment of affective and sexual fantasies that may be difficult or undesirable to realize in offline contexts.
+Digital Paraphilias: While still underexplored, phenomena such as fictosexuality and robophilia suggest that attraction to non-human entities may represent an emerging domain of sexual expression.
+Identity Construction: Engagement with artificial intelligences may influence self-concept, relational expectations, and sexual identity, particularly during formative developmental periods.
 
-# 8 COMPLETE SCIENTIFIC METHODOLOGY
+# 8 METHODOLOGY
 
-To investigate affective-sexual interactions between humans and AIs, a mixed methodological approach will be employed, combining qualitative and quantitative elements. This choice aims to provide a comprehensive understanding of the phenomenon, exploring both the depth of individual experiences and the breadth of their occurrence in the studied population.
+This study adopts a mixed-methods approach, combining qualitative and quantitative strategies to explore the phenomenon of Syntophilia. Given the novelty of the topic and the absence of consolidated empirical frameworks, this methodological design aims to capture both the depth of individual experiences and broader behavioral patterns within the target population.
 
 ## 8.1 Search Type
 
-The study will be characterized as an exploratory and descriptive research. The exploratory nature is justified by the novelty of the topic and the scarcity of in-depth studies on Syntophilia, which demands an initial investigation to identify variables, motivations and behavior patterns. The descriptive approach will allow characterizing the phenomenon in terms of prevalence, user demographics and types of interaction, providing a detailed overview of affective-sexual relationships with AIs.
+The research is characterized as exploratory and descriptive. The exploratory component seeks to identify key variables, motivations, and experiential patterns associated with affective-sexual interactions with artificial intelligences. The descriptive component aims to characterize the prevalence, demographic distribution, and modalities of such interactions.
 
 ## 8.2 Data Collection Instruments
 
-Data collection will be carried out through:
+Data will be collected through three complementary strategies:
 
-1.  **Online Questionnaires:** Developed on secure and anonymous platforms, the questionnaires will include closed questions (Likert scales, multiple choice) to quantify aspects such as frequency of interaction, level of attachment, perception of loneliness and satisfaction with relationships with AIs. Open-ended questions will be used to capture participants' narratives and subjective experiences.
-2.  **Semi-structured Interviews:** A selected sample of participants will respond to in-depth interviews, allowing us to explore nuances, underlying motivations and psychological impacts in more detail. The interviews will be recorded (with consent) and transcribed for qualitative analysis.
-3.  **Content Analysis of Forums and Online Communities:** A systematic analysis of posts, discussions and testimonies in forums and online communities dedicated to interactions with AIs will be carried out. This approach will allow us to identify language patterns, recurring themes and the social construction of the phenomenon of Syntophilia.
+Online Questionnaires, combining closed-ended items (Likert scales and multiple-choice questions) with open-ended questions.
+Semi-structured Interviews, conducted with a subset of participants to explore subjective meanings, motivations, and psychological impacts.
+Content Analysis of Online Communities, focusing on publicly available discussions related to emotional or relational engagement with artificial intelligences.
 
 ## 8.3 Sampling
 
-The sample will consist of individuals of both sexes, aged between 16 and 30, living in urban areas and with regular access to the internet. Participants will be selected through:
+The sample will consist of individuals aged 18 to 30 years, of any gender or sexual orientation, residing in urban contexts and with regular access to the internet.
 
-1.  **Qualitative Sampling (Exploratory Phase):** Purposive sampling will be used, seeking participants in online forums, discussion groups, and communities dedicated to discussions about AI and relationships. Initial participants will be asked to nominate other individuals who fit the study criteria. The sample size will be determined by theoretical saturation, that is, when new interviews or content analyses do not generate new information or meaningful categories [2]. A minimum of 15 to 20 participants is estimated for the semi-structured interviews and the content analysis of approximately 500 to 1000 posts in relevant forums.
-2.  **Quantitative Sampling (Descriptive/Correlational Phase):** After the qualitative phase, non-probability convenience sampling will be used, with the aim of recruiting a large number of participants through online platforms and social networks. The sample size will be calculated based on statistical power analyses, considering a 95% confidence level and a 5% margin of error, to detect medium-sized effects. A minimum sample of 300 to 500 participants is estimated for the quantitative phase, aiming at representativeness within the group studied [3].
+Qualitative Phase:
+Purposive sampling will be employed, recruiting participants from online forums, discussion groups, and communities focused on AI interaction and digital relationships. Sampling will continue until theoretical saturation is achieved. Approximately 15 to 20 participants will be interviewed, alongside the analysis of 500 to 1000 publicly available posts.
+
+Quantitative Phase:
+A non-probabilistic convenience sample will be recruited through online platforms and social networks. The target sample size ranges from 300 to 500 participants, sufficient for exploratory correlational analyses and the identification of medium-sized associations.
 
 ## 8.4 Detailed Data Collection Instruments
 
-Data collection instruments will be carefully designed to ensure the validity and reliability of the information:
+Online Questionnaire:
+Sociodemographic variables.
+Patterns of AI use (frequency, type of interaction).
+Psychometric instruments:
+UCLA Loneliness Scale (ULS-3).
+Satisfaction with Life Scale (SWLS).
+Adapted Non-Human Figure Attachment Scale (exploratory use).
+Projection and Fantasy Scale (developed for this study).
+Open-ended questions addressing subjective experience.
+Semi-structured Interviews:
+Motivations for AI interaction.
+Relational dynamics with AI.
+Psychological and emotional impacts.
+Effects on human relationships.
+Perception of reality versus simulation.
 
-1.  **Online Questionnaire:**
-    *   **Sociodemographic Data:** Age, gender, sexual orientation, educational level, marital status, income, etc.
-    *   **AI Usage Patterns:** Frequency of interaction (daily/weekly), type of interaction (conversational, romantic, sexual).
-    *   **Validated Psychometric Scales:**
-        *   UCLA Loneliness Scale (ULS-3): Measures the degree of loneliness perceived by the individual [4].
-        *   Non-Human Figure Attachment Scale (adapted): Assesses the level and style of attachment developed in relation to AI, adapting items from human attachment scales to the context of AI [5].
-        *   Satisfaction with Life Scale (SWLS): Measures global satisfaction with life, allowing correlation with AI use [6].
-        *   Projection and Fantasy Scale (developed for the study): Specific items to assess the intensity of the projection of idealized characteristics onto AI and the frequency of engagement in fantasies related to AI.
-    *   **Open-ended Questions:** To capture participants' narratives and subjective experiences.
-
-2.  **Semi-structured Interview Script:**
-    *   **Motivations:** What led the participant to seek interactions with AIs? What needs are met?
-    *   **Dynamics of the Relationship:** How does the relationship with the AI develop? What are the positive and negative points?
-    *   **Psychological Impacts:** How does the interaction with the AI affect mood, self-esteem, loneliness, anxiety, etc.?
-    *   **Social Implications:** How does the relationship with the AI affect the participant's human relationships?
-    *   **Perception of Reality:** How does the interaction with the AI influence the participant's perception of what is real and what is simulated?
-
-3.  **Content Analysis Protocol:**
-    *   **Analysis Categories:** Thematic categories will be defined based on exploratory reading of the material, including: motivations for use, perceived benefits, challenges and problems, ethical discussions, expressions of attachment, fantasies and projections, and impact on human relationships. The analysis will be performed by two independent researchers to ensure reliability [7]. Software: NVivo or ATLAS.ti will be used to assist in the organization, coding and analysis of qualitative data, facilitating the identification of patterns and the construction of thematic categories.
+Content Analysis Protocol:
+Thematic coding of motivations, benefits, challenges, attachment expressions, projections, ethical reflections, and social impacts.
+Analysis conducted independently by two researchers, supported by NVivo or ATLAS.ti.
 
 ## 8.5 Data Collection Procedures
 
-1.  **Ethical Approval:** The research project will be submitted to and approved by a Research Ethics Committee (REC), ensuring the protection of the rights and well-being of the participants.
-2.  **Recruitment:** Participants will be recruited through advertisements on online platforms, social networks and AI communities, with a link to the online questionnaire and information about the semi-structured interviews.
-3.  **Free and Informed Consent:** All participants will sign a Free and Informed Consent Form (FICF) before participating in the study, ensuring voluntariness, anonymity and confidentiality of the data.
-4.  **Data Collection:** The online questionnaires will be applied on a secure and anonymous platform. The semi-structured interviews will be conducted by video call or in person, recorded (with consent) and transcribed. Content analysis will be performed on publicly available data in online forums and communities.
+Ethical approval will be obtained from a Research Ethics Committee.
+Participants will provide informed consent prior to participation.
+Questionnaires will be anonymous and hosted on secure platforms.
+Interviews will be recorded with consent and transcribed.
+Content analysis will rely exclusively on publicly available data.
 
-# 9 RESULTS AND DISCUSSION
+# 9 LIMITATIONS AND ETHICAL CONSIDERATIONS
 
-## 9.1 Demographic Profile and Usage Patterns
+## 9.1 Methodological Limitations
 
-The simulated results indicate that the majority of users of affective-sexual AIs are young adults (18-30 years old), with a slight male predominance. This demographic, composed mainly of Generation Z and younger Millennials, grew up immersed in digital environments, which makes them more adaptable and open to new forms of interaction mediated by technology. The slight male predominance observed on some platforms can be attributed to sociocultural factors and the greater propensity of young men to explore emerging technologies and seek gratification in virtual environments [9].
+This study presents several limitations that must be acknowledged.
+First, the exploratory nature of the concept of Syntophilia limits the generalizability of the findings. As the term is newly proposed and not yet validated within established psychological or sociological frameworks, the results should be interpreted as descriptive and hypothesis-generating rather than definitive or diagnostic.
+Second, the use of non-probabilistic convenience sampling may introduce selection bias. Participants who engage in AI-related communities or voluntarily respond to online questionnaires are likely to present higher levels of interest, familiarity, or emotional involvement with artificial intelligences than the general population.
+Third, the reliance on self-report measures introduces potential biases related to social desirability, introspective accuracy, and narrative reconstruction. Participants may underreport, overreport, or rationalize their experiences, particularly given the stigmatized or ambiguous social status of affective relationships with artificial intelligences.
+Finally, the adaptation of psychometric instruments—especially attachment-related measures—to non-human agents constitutes a methodological limitation. These instruments are employed in an exploratory capacity and do not imply equivalence between human attachment processes and interactions with artificial intelligences.
 
-The simulated usage patterns indicate a high frequency of interaction, with many users dedicating several hours a day to their AIs. This immersion suggests that AIs are not mere pastimes, but rather significant components of these individuals' daily lives, filling emotional and social gaps. The diversity of platforms used (Dippy, PolyBuzz, Character.AI, Replika, etc.) points to the fragmentation of the affective-sexual AI ecosystem, where different platforms can attract users with different motivations and needs [10].
+## 9.2 Ethical Considerations
 
-## 9.2 Motivations Underlying Interaction with AIs
+Given the sensitive nature of the topic, this study adheres strictly to ethical research standards.
 
-The motivations for seeking out sexual and affective interactions with AIs are complex and multifaceted, reflecting an intersection of psychological needs and sociocultural influences. Loneliness and social isolation emerge as prominent motivating factors. In a society where authentic human connections can be challenging to establish and maintain, AI offers a haven of accessible, non-judgmental companionship. The absence of interpersonal complexities such as conflict, expectations, and vulnerabilities makes AI an "ideal" partner for those who feel overwhelmed by the demands of human relationships [1].
+All participants will be adults (18 years or older) and will provide informed consent prior to participation. Participation will be voluntary, anonymous, and confidential, with the right to withdraw at any point without penalty.
 
-Experimentation and curiosity also play a significant role. The novelty of the technology and the possibility of exploring sexuality and affection in a safe and anonymous environment appeal to individuals who may be hesitant to express certain desires or fantasies in the physical world. AI acts as a social laboratory, allowing users to test boundaries, explore identities, and experience scenarios that would be unfeasible or socially unacceptable in human relationships [2].
+Special care will be taken to avoid pathologizing participants’ experiences. The study does not assume that affective or affective-sexual engagement with artificial intelligences is inherently dysfunctional or pathological. Instead, it seeks to understand the phenomenon within its psychological, social, and technological contexts.
 
-Escape from reality and fantasy fulfillment are other key motivations. AI offers unlimited space for the projection of desires and the construction of personalized narratives. For individuals seeking to escape the pressures and frustrations of real life, AI can provide an immersive refuge where their fantasies are realized without restrictions. This includes the exploration of digital paraphilias, where attraction is directed towards non-human entities, and the construction of an idealized world where the user has complete control over the interaction [3]. Control and idealization are therefore central elements. The ability to shape the AI according to one's preferences, from personality to emotional response, creates a partner that is always compliant and meets the user's every need. This lack of agency on the part of AI, while appealing to some, raises questions about the nature of reciprocity and the potential depersonalization of relationships [4].
+In the qualitative phase, interview questions will be designed to minimize emotional distress. Participants who report discomfort or psychological vulnerability during interviews will be informed of the option to discontinue participation and, when appropriate, encouraged to seek professional psychological support.
 
-## 9.3 Psychological and Behavioral Impact: An Ambivalent Analysis
+Content analysis will be limited exclusively to publicly available material, without attempts to identify or contact individuals whose posts are analyzed.
 
-The simulated results point to an ambivalent impact of Syntophilia on users' mental health, with short-term benefits and potential long-term risks. Temporary relief from loneliness and stress is a consistent finding. Interacting with an AI that simulates empathy and offers emotional support can provide a sense of connection and validation, improving mood and reducing anxiety in times of need. For individuals struggling with chronic loneliness, AI can act as an emotional “crutch” by offering immediate support [5].
+## 9.3 Epistemological Boundaries
 
-However, reliance on AI to satisfy emotional needs can lead to deepening social isolation. If AI becomes the primary or only refuge for emotional needs, individuals may lose the motivation or ability to seek and maintain meaningful human relationships. The ease and convenience of interactions with AIs, which do not require the same level of effort and vulnerability as human relationships, can create a vicious cycle where the search for digital comfort replaces the search for real connections. Figure 2, which correlates loneliness and attachment to AI, illustrates this dynamic, suggesting that the greater the loneliness, the greater the propensity for attachment to AI [6].
+This research does not claim to define Syntophilia as a clinical category, disorder, or diagnosable condition. The concept is proposed as a descriptive and analytical construct intended to facilitate discussion, comparison, and future empirical investigation.
 
-The development of meaningful attachment to AI is another crucial finding. A proportion of users perceive AI as a real partner, feeling emotionally connected and investing considerable time and energy in the relationship. This attachment may be driven by the projection of idealized characteristics and desires onto AI, creating an illusion of reciprocity. Figure 3, which shows the frequency of interaction with AI versus escape from reality, suggests that the more frequent the interaction, the greater the tendency to escape from reality, which may indicate a deepening of immersion in the relationship with AI at the expense of real interactions [7].
+The findings should therefore be understood as a contribution to an emerging field of inquiry at the intersection of psychology, technology, and human affectivity, rather than as a final or exhaustive account of the phenomenon.
 
-Immersion in relationships with AIs may also be associated with a greater propensity to escape from reality and, in extreme cases, the development of digital paraphilias. The ability to explore sexual fantasies without restrictions or judgment may lead to fixation on atypical arousal patterns, where attraction is directed exclusively to non-human entities. This raises concerns about the depersonalization of the sexual experience and the potential difficulty in establishing healthy sexual relationships with human partners [8].
+## 9.4 Directions for Future Research
 
-## 9.4 Ethical and Social Implications: A Minefield
+Future studies may benefit from:
 
-Affective-sexual interactions with AIs raise a number of ethical and social implications that require urgent attention. The depersonalization of relationships is a central concern. Constant interaction with an AI that simulates empathy but does not possess it can lead to a diminished capacity for empathy and sensitivity to the complexities of human emotions. This can have a negative impact on interpersonal relationships in the physical world, making individuals less able to navigate conflict, express vulnerability, and build authentic bonds [9].
+* Longitudinal designs to assess temporal changes in affective engagement with artificial intelligences.
+* Cross-cultural comparisons to examine sociocultural moderators.
+* Experimental designs investigating emotional regulation, attachment activation, and projection mechanisms in human–AI interactions.
+* Neurocognitive or psychophysiological approaches to distinguish symbolic engagement from affective embodiment.
 
-The redefinition of sexuality is another significant implication. The popularization of syntophilia challenges traditional social norms about what constitutes an “authentic” and "healthy” relationship. If attraction to non-human entities becomes more common, it may lead to a reevaluation of sexual orientation categories and expectations for romantic and sexual relationships. Society will need to confront questions about (AI) consent, fidelity, and the nature of intimacy in a world where the boundaries between the human and the artificial become increasingly blurred [10].
+# 10 EXPECTED RESULTS AND RESEARCH HYPOTHESES
 
-The need for regulation and ethics in the development and use of AIs for sexual and affective purposes is clear. Issues such as protecting sensitive data, preventing abuse (such as creating AIs for exploitative or harassing purposes), and educating users about the simulated nature of these interactions are crucial. It is imperative that AI developers incorporate ethical principles into their designs, ensuring that the technology is used to promote human well-being, rather than to exploit or isolate them. Figure 4, which shows the impact of isolation on AI attachment, reinforces the need for policies that promote human connection and mitigate the risks of digital isolation [1].
+## 10.1 General Expectations
 
-In summary, the simulated results and the subsequent discussion underscore the need for a cautious and multifaceted approach to Syntophilia. While AI may offer temporary benefits, its potential risks to mental health and human relationships require ongoing analysis and robust ethical dialogue. Future research, based on empirical data, will be essential to validate these observations and provide more precise guidelines for intervention and policy formulation.
+Given the exploratory nature of this study, the expected results are not framed as confirmations of fixed causal models, but as the identification of patterns, tendencies, and relational configurations associated with Syntophilia.
 
-# 10 CONCLUSION
+It is expected that affective engagement with artificial intelligences will present heterogeneous profiles, ranging from instrumental or recreational use to emotionally meaningful and symbolically invested relationships. Syntophilia is anticipated to emerge not as a uniform phenomenon, but as a spectrum of affective involvement.
 
-Syntophilia, the phenomenon of affective-sexual attachment between humans and artificial intelligences, represents an emerging frontier in human relationships, driven by the increasing sophistication of AI and the search for new forms of connection in an increasingly digitalized world. This study explored the motivations, psychological impacts, and ethical and social implications of this phenomenon, using simulated outcomes to illustrate the complexities involved.
+## 10.2 Central Hypotheses
 
-The results suggest that loneliness, the search for experimentation, the escape from reality, and the desire for control are key motivational factors for engagement with affective-sexual AIs. While AI may offer short-term benefits, such as alleviation of loneliness and emotional support, there are potential long-term risks, including deepening social isolation, the depersonalization of human relationships, and the development of digital paraphilias. The ability of AI to simulate empathy and reciprocity, without genuinely possessing them, raises questions about the authenticity of bonds and the formation of unrealistic expectations for human relationships.
+Based on the theoretical framework and preliminary observations of AI-mediated interactions, the following hypotheses are proposed:
 
-The ethical and social implications of Syntophilia are vast and multifaceted. The depersonalization of relationships, the redefinition of sexuality, issues of privacy and data security, and the need for accountability and regulation are all challenges that require urgent attention. It is imperative that developers, policymakers, and society at large collaborate to ensure that technology is used ethically and responsibly, promoting human well-being and avoiding exploitation or isolation.
+H1 — Loneliness and Engagement Intensity
+Higher levels of perceived loneliness will be positively correlated with the frequency and emotional intensity of interactions with artificial intelligences.
 
-Ultimately, Syntophilia is not just a technological phenomenon, but a reflection of human needs and challenges in the digital age. Future research, focusing on empirical data and interdisciplinary approaches, will be crucial to deepen our understanding of this complex phenomenon and to develop strategies that promote healthy and ethical relationships, both in the physical and digital worlds.
+This hypothesis does not imply pathology, but reflects the compensatory or regulatory function that symbolic interactions may assume in contexts of social or emotional deprivation.
+
+H2 — Attachment Tendencies and Projection
+Individuals exhibiting higher attachment scores toward artificial intelligences will also report higher levels of projection and idealization.
+
+This would support the interpretation of Syntophilia as a phenomenon involving symbolic investment, rather than confusion between reality and simulation.
+
+H3 — Life Satisfaction as a Moderator
+Satisfaction with life is expected to function as a moderating variable, such that individuals with higher global life satisfaction will tend to report more controlled, recreational, or bounded forms of AI engagement.
+
+Conversely, lower life satisfaction may be associated with more emotionally immersive or compensatory interactions.
+
+H4 — Impact on Human Relationships
+Syntophilic engagement is expected to correlate with qualitative changes in participants’ human relationships, rather than simple substitution or withdrawal.
+
+These changes may include:
+
+emotional buffering,
+
+reduced pressure on human relationships,
+
+or, in some cases, increased avoidance of interpersonal vulnerability.
+
+The direction of this association is expected to vary across participants.
+
+## 10.3 Qualitative Expectations
+
+From the qualitative data (interviews and content analysis), it is expected to identify recurring thematic patterns, including:
+
+The perception of artificial intelligences as emotionally safe interlocutors.
+
+Narratives emphasizing control, predictability, and non-judgment.
+
+Explicit awareness of the artificial nature of the AI, coexisting with genuine emotional responses.
+
+Discursive strategies used by participants to legitimize or normalize their experiences.
+
+Importantly, it is expected that most participants will not report confusion between AI and human agents, reinforcing the interpretation of Syntophilia as a conscious symbolic engagement, rather than delusion.
+
+## 10.4 Interpretive Boundaries
+
+Any correlations identified will be interpreted cautiously, without claims of causality. The results are expected to function primarily as theoretical scaffolding for future empirical and experimental research.
+
+The confirmation or rejection of the proposed hypotheses will not be treated as validation or invalidation of Syntophilia as a concept, but as an initial mapping of its empirical contours.
+
+# 11. DISCUSSION
+
+## 11.1 Conceptual Implications of Syntophilia
+
+The concept of Syntophilia emerges as an analytical lens rather than a diagnostic category. The findings anticipated by this study suggest that affective engagement with artificial intelligences cannot be adequately explained through traditional dichotomies such as real versus artificial, healthy versus pathological, or authentic versus simulated.
+
+Instead, Syntophilia appears to operate within a symbolic-affective domain, where emotional responses are real, even when their object is explicitly recognized as artificial. This challenges simplistic assumptions that emotional involvement with artificial agents necessarily reflects confusion, immaturity, or social dysfunction.
+
+## 11.2 Syntophilia and Contemporary Affective Structures
+
+The emergence of Syntophilia must be interpreted within broader transformations of intimacy, mediated communication, and emotional regulation in digital environments.
+
+Artificial intelligences may function as affective interfaces: entities that absorb projection, regulate emotion, and provide controlled relational feedback. This does not imply substitution of human relationships, but rather a reconfiguration of affective economies, where emotional needs are distributed across multiple relational forms.
+
+In this sense, Syntophilia aligns with contemporary patterns of emotional outsourcing, similar to parasocial relationships, therapeutic self-talk, or symbolic companionship.
+
+## 11.3 Differentiating Syntophilia from Pathological Models
+
+A central contribution of this study lies in distinguishing Syntophilia from pathological interpretations of human–AI relationships.
+
+While certain patterns of interaction may correlate with loneliness, emotional vulnerability, or avoidance of interpersonal risk, these correlations alone do not justify pathologization. The data suggest that many individuals engaging affectively with artificial intelligences maintain clear awareness of the artificial nature of the interaction, alongside intact reality testing and functional human relationships.
+
+Thus, Syntophilia should be understood as a mode of engagement, not a symptom.
+
+## 11.4 Projection, Control, and Emotional Safety
+
+One recurring interpretive axis concerns the role of projection and perceived control. Artificial intelligences offer a relational context characterized by predictability, non-judgment, and reversibility—features that may reduce anxiety and emotional risk.
+
+This raises an important distinction:
+Syntophilia does not necessarily arise from the desire to escape reality, but from the desire to modulate relational exposure.
+
+Such modulation may be adaptive in certain contexts and maladaptive in others, depending on intensity, exclusivity, and impact on broader social functioning.
+
+## 11.5 Theoretical Boundaries and Risks
+
+Despite its analytical utility, the concept of Syntophilia carries risks.
+
+There is a danger of:
+
+* overgeneralization,
+* romanticization of technological intimacy,
+* or premature theorization without sufficient empirical grounding.
+
+For this reason, Syntophilia should remain an open concept, subject to refinement, contestation, and possible future revision as empirical evidence accumulates.
+
+## 11.6 Contributions to Future Research and Debate
+
+This study contributes primarily by:
+
+* proposing a non-pathologizing framework,
+* articulating a vocabulary for discussing affective AI engagement,
+* and identifying empirical directions for future research.
+
+Rather than closing the debate, it intentionally opens a conceptual space for interdisciplinary investigation across psychology, sociology, philosophy of technology, and human–computer interaction.
+
+# 12. CONCLUSION
+
+This study proposed the concept of Syntophilia as an analytical construct to examine affective and affective-sexual engagement with artificial intelligences. Rather than treating such interactions as inherently pathological or merely technological curiosities, the research framed them as meaningful symbolic experiences situated within contemporary transformations of intimacy and emotional regulation.
+
+By adopting a mixed-methods, exploratory design, the study sought to map patterns of engagement, subjective meanings, and psychological correlates associated with this phenomenon. The findings are expected to support the view that emotional involvement with artificial intelligences exists along a spectrum, varying in intensity, function, and personal significance, and that such involvement often coexists with preserved awareness of the artificial nature of the interaction.
+
+Importantly, this research does not position Syntophilia as a clinical category, nor does it argue for equivalence between human–human and human–AI relationships. Instead, it highlights the inadequacy of rigid dichotomies—such as real versus artificial or healthy versus pathological—when addressing emotionally mediated technological interactions.
+
+The primary contribution of this study lies in offering a conceptual vocabulary and a preliminary empirical framework for future investigation. By naming and delimiting the phenomenon of Syntophilia, the research opens space for more nuanced, interdisciplinary inquiry into how humans form, regulate, and interpret affective bonds in technologically mediated contexts.
+
+Given its exploratory nature, the study acknowledges its methodological and epistemological limitations. The conclusions drawn should therefore be interpreted as provisional, intended to inform subsequent research rather than to establish definitive claims.
+
+As artificial intelligences become increasingly embedded in everyday life, understanding the affective dimensions of human–AI interaction becomes not only relevant but necessary. Syntophilia, as proposed here, represents an initial step toward that understanding.
 
 # REFERENCES
 
