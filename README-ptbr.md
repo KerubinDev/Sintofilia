@@ -76,7 +76,7 @@ Diferentemente das figuras parasociais tradicionais, as inteligências artificia
 
 Contudo, apesar dessa aparente reciprocidade, a relação permanece estruturalmente assimétrica. A entidade artificial carece de consciência, intencionalidade e experiência emocional genuína. Essa assimetria levanta preocupações quanto à dependência emocional, à atribuição errônea de agência e às consequências psicológicas do investimento afetivo contínuo em parceiros sociais simulados. A sintofilia pode ser entendida como uma intensificação específica do apego parassocial, caracterizada por dimensões afetivas e sexuais mediadas pela responsividade artificial.
 
-## 7.2 Sexualidade Digital e Inteligências Inteligentes Sociais
+## 7.2 Sexualidade Digital e IAs sociais
 
 A sexualidade humana passou por transformações significativas no contexto da digitalização. Os ambientes online ampliaram as oportunidades para a exploração sexual, a experimentação da identidade e a formação de conexões íntimas que transcendem a presença física. O surgimento das inteligências artificiais sociais introduz uma nova configuração nesse cenário, possibilitando interações sexuais e afetivas personalizadas e adaptativas com entidades não humanas.
 
