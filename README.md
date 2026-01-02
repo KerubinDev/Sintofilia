@@ -348,4 +348,4 @@ As artificial intelligences become increasingly embedded in everyday life, under
 
 [9] GOETZ, J. L.; KELTNER, D.; SIMON-THOMAS, E. Compassion: An evolutionary analysis and empirical review. Psychological Bulletin, vol. 136, no. 3, p. 351-374, 2010.
 
-[10] CACIOPPO, J. T.; CACIOPPO, S. The growing problem of loneliness. The Lancet, v. 391, n. 10119, p. 426, 2018. Available at: [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18 )30142-9/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18 )30142-9/fulltext). Accessed on: June 19, 2025.
+[10] CACIOPPO, J. T.; CACIOPPO, S. The growing problem of loneliness. The Lancet, v. 391, n. 10119, p. 426, 2018. Available at: [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)30142-9/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)30142-9/fulltext). Accessed on: June 19, 2025.
