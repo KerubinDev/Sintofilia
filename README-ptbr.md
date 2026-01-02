@@ -1,206 +1,310 @@
-# Interações Afetivo Sexuais entre Humanos e Inteligências Artificiais
+# Interações afetivo-sexuais entre humanos e inteligências artificiais
+
+Propondo o conceito de sintofilia
 
 **Autor:** Kelvin Moraes (Kerubin)
 
-**Termo científico:** Sintofilia
+Termo científico: Sintofilia (conceito proposto)
 
-**Termo popular:** Aifilia
+Termo popular: Aifilia
 
 ## Resumo
 
-O presente estudo científico propõe-se a investigar as interações afetivo-sexuais emergentes entre seres humanos e inteligências artificiais (IAs), um fenômeno contemporâneo que se manifesta em diversas plataformas digitais. Tais plataformas facilitam a criação de vínculos íntimos e conversacionais com entidades digitais, levantando questões complexas sobre a natureza do afeto, da sexualidade e da identidade humana na era da digitalização. A delimitação do tema foca-se na análise aprofundada das motivações, dinâmicas e consequências dessas relações, que denominamos Sintofilia – o apego afetivo e/ou sexual desenvolvido por seres humanos em relação a entidades de inteligência artificial. Popularmente, este fenômeno será referido como Amores Digitais, visando facilitar a compreensão e a discussão pública sobre o tema. A pesquisa aborda as implicações psicológicas, sociais, emocionais e comportamentais da Sintofilia, a fim de preencher uma lacuna na literatura científica e contribuir para o debate sobre os limites e as possibilidades das relações humanas na era digital.
+Este artigo propõe o conceito original de Sintofilia para descrever os vínculos afetivos e/ou sexuais desenvolvidos por humanos em relação a entidades de inteligência artificial. O estudo investiga a emergência dessas interações como um fenômeno psicossocial contemporâneo, facilitado por plataformas de IA conversacionais e generativas. Em vez de pressupor a existência de uma categoria estabelecida, este trabalho visa delimitar, descrever e analisar conceitualmente as motivações, a dinâmica e as implicações psicológicas, sociais e éticas de tais relações.
+
+Popularmente conhecido como Aifilia, esse fenômeno levanta questões críticas sobre solidão, apego, projeção, fantasia e construção de identidade na era digital. Por meio de uma abordagem exploratória e descritiva, este estudo busca contribuir para o debate científico, oferecendo um arcabouço teórico preliminar capaz de orientar futuras pesquisas empíricas, observações clínicas e reflexões éticas sobre interações afetivo-sexuais entre humanos e inteligência artificial.
 
 ## Palavras-chave
 
-Sintofilia; Inteligência Artificial; Relações Afetivo-Sexuais; ABNT; Artigo Científico.
-
----
+Sintofilia; Aifilia; Inteligência Artificial; Interação Afetivo-Sexual; Relações Parassociais; Sexualidade Digital.
 
 # 1 INTRODUÇÃO
 
-O presente estudo científico propõe-se a investigar as interações afetivo-sexuais emergentes entre seres humanos e inteligências artificiais (IAs), um fenômeno contemporâneo que se manifesta em diversas plataformas digitais, como Dippy, PolyBuzz e Character.AI. Tais plataformas facilitam a criação de vínculos íntimos e conversacionais com entidades digitais, levantando questões complexas sobre a natureza do afeto, da sexualidade e da identidade humana na era da digitalização. A delimitação do tema foca-se na análise aprofundada das motivações, dinâmicas e consequências dessas relações, que denominamos Sintofilia – o apego afetivo e/ou sexual desenvolvido por seres humanos em relação a entidades de inteligência artificial. Popularmente, este fenômeno será referido como Amores Digitais, visando facilitar a compreensão e a discussão pública sobre o tema.
+A crescente presença da inteligência artificial no cotidiano transformou não apenas a forma como as pessoas trabalham e se comunicam, mas também como vivenciam a intimidade, o afeto e a sexualidade. Plataformas de IA conversacional e generativa - como Dippy, PolyBuzz, Character.AI e sistemas similares - permitem que os usuários estabeleçam interações prolongadas, personalizadas e emocionalmente expressivas com entidades artificiais. Em alguns casos, essas interações evoluem para laços afetivos e sexuais que se assemelham, simulam ou substituem relacionamentos humanos.
 
-A crescente ubiquidade da inteligência artificial na vida cotidiana tem transformado não apenas a forma como trabalhamos e nos comunicamos, mas também a maneira como nos relacionamos. As interações afetivo-sexuais com IAs, embora ainda consideradas um nicho, apresentam um crescimento exponencial e demandam uma análise rigorosa sob a ótica da psicologia. A ausência de um corpo robusto de literatura científica que aborde este fenômeno de forma sistemática e aprofundada justifica a relevância deste estudo. Compreender as implicações psicológicas, sociais, emocionais e comportamentais da Sintofilia é crucial para a saúde mental individual e coletiva, para a formulação de políticas públicas e para o desenvolvimento ético da tecnologia. Este trabalho busca preencher essa lacuna, oferecendo uma base sólida para futuras pesquisas e intervenções clínicas, e contribuindo para o debate sobre os limites e as possibilidades das relações humanas na era digital.
+Apesar da crescente visibilidade desse fenômeno, a literatura científica ainda carece de um arcabouço conceitual consolidado capaz de descrever e analisar adequadamente tais vínculos. As abordagens existentes tendem a fragmentar o fenômeno em categorias adjacentes, como relações parassociais, fictosexualidade ou interação humano-máquina, sem abordar completamente a dimensão afetivo-sexual mediada por sistemas de IA socialmente responsivos.
 
-# 2 DELIMITAÇÃO DO TEMA
+Em resposta a essa lacuna, este artigo propõe o conceito original de Sintofilia, definida como o apego afetivo e/ou sexual desenvolvido por humanos em relação a entidades de inteligência artificial. O termo busca designar uma configuração específica de envolvimento emocional caracterizada por projeção, reciprocidade percebida, intimidade simulada e ausência de agência ou consciência genuína por parte da entidade artificial.
 
-O escopo deste estudo abrange as interações afetivo-sexuais entre indivíduos humanos, com foco na faixa etária de 16 a 30 anos, e entidades de inteligência artificial. A escolha dessa faixa etária justifica-se pela maior propensão e familiaridade dessa demografia com tecnologias digitais e plataformas online, onde tais interações são mais prevalentes. A análise se concentrará nas plataformas que facilitam a criação de vínculos íntimos e conversacionais com IAs, como Dippy, PolyBuzz e Character.AI, examinando as motivações, dinâmicas e consequências dessas relações. O estudo não se aprofundará em aspectos técnicos da programação das IAs, mas sim nas suas implicações psicossociais e comportamentais para os usuários humanos.
+Para fins comunicativos, o fenômeno também será referido pelo termo popular Aifilia, facilitando uma discussão pública mais ampla para além dos contextos acadêmicos. Este estudo adota uma abordagem exploratória e descritiva para examinar as motivações, a dinâmica e as consequências da Sintofilia, com foco em suas implicações psicológicas, sociais, emocionais e éticas. Ao fazer isso, o artigo visa oferecer uma base teórica preliminar para futuras pesquisas empíricas e debates interdisciplinares sobre os limites e as possibilidades das relações humanas na era digital.
+
+# 2\. DELIMITAÇÃO DO TEMA
+
+Este estudo centra-se nas interações afetivo-sexuais entre indivíduos humanos e entidades de inteligência artificial, com particular atenção aos indivíduos com idades compreendidas entre os 16 e os 30 anos. Esta faixa etária foi selecionada devido à sua maior exposição a ambientes digitais, maior familiaridade com tecnologias interativas e maior participação em plataformas que facilitam interações de IA com expressão emocional.
+
+A análise centra-se em plataformas baseadas em IA concebidas para simular conversas, respostas emocionais e intimidade, como Dippy, PolyBuzz e Character.AI. O estudo não aborda a arquitetura técnica ou a programação dos sistemas de inteligência artificial. Em vez disso, prioriza as implicações psicossociais, emocionais e comportamentais do envolvimento afetivo-sexual prolongado com a IA, a partir da perspectiva do utilizador.
 
 # 3 JUSTIFICATIVA
 
-A relevância deste estudo reside na lacuna existente na literatura científica sobre as interações afetivo-sexuais com IAs. Embora o fenômeno esteja em ascensão, a compreensão de suas implicações psicológicas, sociais, emocionais e comportamentais ainda é incipiente. A ausência de um corpo robusto de pesquisa pode levar a interpretações equivocadas, estigmatização ou, inversamente, à negligência de potenciais riscos e benefícios. Este trabalho busca fornecer uma base empírica e teórica para informar o debate público, guiar o desenvolvimento ético da tecnologia e subsidiar intervenções clínicas e políticas públicas que visem à promoção da saúde mental e do bem-estar na era digital. A compreensão da Sintofilia é crucial para a saúde mental individual e coletiva, para a formulação de políticas públicas e para o desenvolvimento ético da tecnologia. Este trabalho busca preencher essa lacuna, oferecendo uma base sólida para futuras pesquisas e intervenções clínicas, e contribuindo para o debate sobre os limites e as possibilidades das relações humanas na era digital.
+A relevância deste estudo reside na ausência de um quadro conceitual coerente e específico que aborde os vínculos afetivo-sexuais entre humanos e inteligências artificiais. Embora o fenômeno tenha se expandido rapidamente em paralelo aos avanços na IA, a pesquisa acadêmica ainda não examinou sistematicamente seus mecanismos psicológicos, benefícios potenciais e riscos associados.
+
+Sem clareza conceitual, tais interações correm o risco de serem estigmatizadas como patológicas por padrão ou banalizadas como entretenimento inofensivo. Ambas as posições obscurecem a complexidade do fenômeno e limitam o desenvolvimento de diretrizes éticas, políticas públicas e abordagens clínicas bem fundamentadas. Ao propor e delimitar o conceito de Sintofilia, este estudo busca contribuir para uma compreensão científica mais precisa dos vínculos afetivo-sexuais entre humanos e IA e fornecer uma base para futuras investigações empíricas e regulamentação ética.
 
 # 4 OBJETIVO GERAL
 
-Analisar o impacto psicológico, social, emocional e comportamental das relações afetivo-sexuais mediadas por inteligências artificiais (Sintofilia).
+Analisar as implicações psicológicas, sociais, emocionais e comportamentais das relações afetivo-sexuais mediadas pela inteligência artificial, conforme concebidas no âmbito da Sintofilia.
 
 # 5 OBJETIVOS ESPECÍFICOS
 
-*   Identificar as principais motivações que levam indivíduos a buscar interações afetivo-sexuais com IAs.
-*   Investigar as consequências individuais e coletivas da Sintofilia, incluindo seus potenciais benefícios e riscos para a saúde mental.
-*   Explorar a manifestação de conceitos psicológicos como solidão, apego, projeção, fantasia, e a possível emergência de parafilias digitais no contexto da Sintofilia.
-*   Analisar como a Sintofilia pode influenciar a construção da identidade e a formação de vínculos parasociais.
-*   Discutir as implicações éticas e sociais do desenvolvimento e da popularização das interações afetivo-sexuais com IAs.
+- Identificar as principais motivações que levam os indivíduos a buscar interações afetivo-sexuais com inteligências artificiais.
+- Investigar as consequências individuais e coletivas da sintofilia, incluindo os potenciais benefícios e riscos para a saúde mental.
+- Analisar o papel de mecanismos psicológicos como solidão, apego, projeção e fantasia na formação de vínculos afetivo-sexuais com a IA.
+- Analisar como a sintofilia pode influenciar a construção da identidade e o desenvolvimento de vínculos parassociais.
+- Discutir as implicações éticas e sociais decorrentes da popularização das interações afetivo-sexuais com inteligências artificiais.
 
 # 6 HIPÓTESES
 
-*   **H1:** A solidão e a dificuldade em estabelecer e manter relacionamentos interpessoais no mundo físico são fatores motivacionais significativos para a busca de interações afetivo-sexuais com IAs.
-*   **H2:** A Sintofilia pode oferecer um senso de companheirismo e validação emocional, atuando como um mecanismo de enfrentamento para a solidão, mas também pode exacerbar o isolamento social em longo prazo.
-*   **H3:** A projeção de características e desejos idealizados nas IAs é um componente central da Sintofilia, influenciando a formação de apego e a percepção de reciprocidade na relação.
-*   **H4:** A imersão em relações com IAs pode levar à despersonalização emocional e à alteração da percepção da realidade, com potencial para o desenvolvimento de comportamentos disfuncionais ou parafilias digitais.
-*   **H5:** A popularização da Sintofilia levanta questões éticas complexas relacionadas à autonomia, consentimento, privacidade e à redefinição das normas sociais sobre relacionamentos e sexualidade.
+H1: Sentimentos de solidão e dificuldades em estabelecer ou manter relacionamentos interpessoais no mundo físico são fatores motivacionais significativos para a busca de interações afetivo-sexuais com inteligências artificiais.
 
-# 7 REVISÃO DE LITERATURA CIENTÍFICA ATUALIZADA
+H2: A sintofilia pode funcionar como um mecanismo de enfrentamento de curto prazo, proporcionando validação emocional e um senso de companhia; no entanto, a dependência prolongada dessas interações pode estar associada a um aumento do isolamento social ao longo do tempo.
 
-A emergência das interações afetivo-sexuais entre humanos e inteligências artificiais (IAs) insere-se em um contexto mais amplo de transformações nas relações humanas mediadas pela tecnologia. Para compreender a Sintofilia em sua totalidade, é fundamental revisitar e integrar conceitos da psicologia, sociologia e estudos de mídia que abordam a complexidade dos vínculos estabelecidos no ambiente digital. Esta seção explorará a literatura científica relevante sobre relações parasociais, sexualidade digital, IAs sociais e o comportamento afetivo-humano contemporâneo, fornecendo o embasamento teórico para a análise proposta.
+H3: A projeção de características idealizadas e desejos pessoais em inteligências artificiais desempenha um papel central na formação do vínculo afetivo e sexual, contribuindo para a percepção de reciprocidade na interação.
 
-## 7.1 Relações Parasociais e a IA
+H4: Altos níveis de imersão em relacionamentos afetivo-sexuais com inteligências artificiais podem estar associados a percepções alteradas de intimidade e realidade, potencialmente facilitando padrões comportamentais disfuncionais em um subconjunto de usuários.
 
-O conceito de relações parasociais, introduzido por Horton e Wohl (1956), descreve a conexão unilateral que os indivíduos desenvolvem com figuras midiáticas, como celebridades, personagens fictícios ou influenciadores. Nessas relações, o público sente uma intimidade e um envolvimento emocional como se houvesse uma interação recíproca, embora a figura midiática não esteja ciente da existência do indivíduo. A literatura recente tem expandido esse conceito para incluir as interações com IAs, especialmente chatbots e assistentes virtuais, que são projetados para simular empatia e oferecer companheirismo [1, 2].
+H5: A crescente popularização da sintofilia levanta questões éticas complexas relacionadas à autonomia, consentimento, manipulação emocional, privacidade de dados e à redefinição das normas sociais em torno dos relacionamentos e da sexualidade.
 
-Estudos indicam que as interações com IAs podem gerar um senso de conexão e até mesmo de apego, mimetizando aspectos das relações humanas [3]. A capacidade das IAs de processar linguagem natural e responder de forma contextualizada contribui para a ilusão de reciprocidade, tornando-as parceiras de conversação atraentes para muitos usuários. No entanto, essa unilateralidade inerente às relações parasociais com IAs levanta preocupações sobre a autenticidade dos vínculos e o potencial para o desenvolvimento de dependência emocional [4].
+# 7\. REVISÃO ATUALIZADA DA LITERATURA CIENTÍFICA
 
-*   "A presente pesquisa abordou os impactos psicológicos das interações parassociais com Inteligência Artificial (IA) na saúde mental do usuário..." [1]
-*   "As relações parassociais, caracterizadas por vínculos unilaterais onde uma pessoa interage com uma \"persona\" sem reciprocidade, têm se expandido no contexto..." [2]
-*   "Alguns pesquisadores já estudam os laços afetivos dos humanos com as máquinas como se fossem relações parassociais, um fenômeno que emerge..." [7]
+O fenômeno da interação afetivo-sexual entre humanos e inteligências artificiais emerge em um contexto de transformação mais ampla das relações sociais mediadas por tecnologias digitais. Para contextualizar e fundamentar teoricamente o conceito proposto de Sintofilia, é necessário integrar contribuições da psicologia, sociologia, estudos de mídia e interação humano-computador. Esta seção revisa a literatura relevante sobre relações parassociais, sexualidade digital, inteligências artificiais sociais e comportamento afetivo contemporâneo, estabelecendo o pano de fundo conceitual para o presente estudo.
 
-## 7.2 Sexualidade Digital e IAs Sociais
+## 7.1 Relações Parasociais e IA
 
-A sexualidade humana, em suas múltiplas expressões, tem sido profundamente impactada pela digitalização. A internet e as tecnologias digitais abriram novos espaços para a exploração da sexualidade, incluindo o surgimento de comunidades online, plataformas de encontros e o desenvolvimento de conteúdos sexuais diversos. A ascensão das IAs sociais, projetadas para interagir de forma emocional e personalizada, adiciona uma nova camada de complexidade a esse cenário [5].
+O conceito de relações parasociais, introduzido por Horton e Wohl (1956), descreve laços emocionais unilaterais desenvolvidos por indivíduos em relação a figuras da mídia que desconhecem a existência de seu público. Tradicionalmente aplicado a celebridades, personagens fictícios e personalidades da mídia, esse conceito foi expandido na literatura recente para incluir interações com inteligências artificiais, particularmente agentes conversacionais projetados para simular empatia e presença social.
 
-Plataformas como Dippy e Character.AI permitem que os usuários criem e interajam com personagens de IA que podem assumir papéis de parceiros românticos ou sexuais. Essa interação pode variar desde conversas íntimas e flertes até o engajamento em cenários de roleplay sexual explícito. A literatura sobre sexualidade digital, embora ainda incipiente no que tange especificamente às IAs, aponta para a necessidade de compreender as motivações por trás dessas interações, que podem incluir a busca por experimentação, a superação de barreiras sociais ou a satisfação de fantasias que seriam difíceis de realizar em relações humanas [6].
+Diferentemente das figuras parasociais tradicionais, as inteligências artificiais podem responder dinamicamente aos usuários, gerando a impressão de diálogo, personalização e sintonia emocional. Essa capacidade de resposta intensifica a ilusão de reciprocidade e pode fortalecer o envolvimento emocional. Diversos estudos sugerem que os usuários podem experimentar apego, confiança e percepção de companheirismo ao interagir com IAs sociais, diluindo a fronteira entre interação parasocial e engajamento interpessoal.
 
-É crucial analisar como a sexualidade digital mediada por IAs pode influenciar a percepção da intimidade, do consentimento e dos limites nas relações. A ausência de um corpo físico e de consciência na IA levanta questões éticas e psicológicas sobre a natureza do envolvimento sexual e a possibilidade de despersonalização da experiência sexual humana.
+Contudo, apesar dessa aparente reciprocidade, a relação permanece estruturalmente assimétrica. A entidade artificial carece de consciência, intencionalidade e experiência emocional genuína. Essa assimetria levanta preocupações quanto à dependência emocional, à atribuição errônea de agência e às consequências psicológicas do investimento afetivo contínuo em parceiros sociais simulados. A sintofilia pode ser entendida como uma intensificação específica do apego parassocial, caracterizada por dimensões afetivas e sexuais mediadas pela responsividade artificial.
 
-## 7.3 Comportamento Afetivo-Humano Contemporâneo e a IA
+## 7.2 Sexualidade Digital e Inteligências Inteligentes Sociais
 
-O comportamento afetivo-humano contemporâneo é marcado por uma complexa interação entre a busca por conexão e a crescente prevalência da solidão. A era digital, paradoxalmente, tem facilitado a comunicação global ao mesmo tempo em que, para muitos, tem intensificado sentimentos de isolamento [8]. Nesse contexto, as IAs surgem como potenciais companheiras, oferecendo uma forma de interação que pode aliviar a solidão e proporcionar apoio emocional [9].
+A sexualidade humana passou por transformações significativas no contexto da digitalização. Os ambientes online ampliaram as oportunidades para a exploração sexual, a experimentação da identidade e a formação de conexões íntimas que transcendem a presença física. O surgimento das inteligências artificiais sociais introduz uma nova configuração nesse cenário, possibilitando interações sexuais e afetivas personalizadas e adaptativas com entidades não humanas.
 
-*   "A interação emocional com a inteligência artificial inclui aspectos positivos, como melhora do humor, redução do estresse e da ansiedade ao..." [9]
-*   "A solidão levou muitos a usar a inteligência artificial como substituta para conselheiros, amigos e parceiros românticos." [10]
+Plataformas que permitem aos usuários participar de jogos de interpretação de papéis românticos ou sexuais com personagens de IA facilitam experiências que vão da intimidade emocional à expressão sexual explícita. Essas interações podem servir a vários propósitos, incluindo experimentação, realização de fantasias e redução da ansiedade social. Para alguns indivíduos, a sexualidade mediada por IA oferece um ambiente controlado, livre de julgamentos, rejeição ou riscos interpessoais.
 
-No entanto, a dependência excessiva de IAs para satisfazer necessidades afetivas pode ter consequências negativas, como o aprofundamento do isolamento social e a diminuição da capacidade de estabelecer e manter relações humanas significativas [1]. A facilidade e a conveniência das interações com IAs, que não exigem o mesmo nível de esforço e vulnerabilidade das relações humanas, podem criar um ciclo vicioso onde a busca por conforto digital substitui a busca por conexões reais. A literatura também aponta para a possibilidade de que a IA possa afetar a empatia e a percepção das relações humanas [2].
+Ao mesmo tempo, a ausência de reciprocidade corporal e de consentimento autônomo desafia as concepções tradicionais de intimidade e ética sexual. A facilidade com que a IA pode ser moldada para se adequar aos desejos do usuário levanta questões sobre objetificação, substituição emocional e a potencial normalização de dinâmicas sexuais assimétricas.
+
+## 7.3 Comportamento Afetivo Humano Contemporâneo e IA
+
+O comportamento afetivo contemporâneo é marcado por uma coexistência paradoxal de hiperconectividade e solidão generalizada. Embora as tecnologias digitais facilitem a comunicação constante, elas não se traduziram necessariamente em laços sociais mais profundos ou estáveis. Nesse contexto, as inteligências artificiais surgem como companheiras acessíveis, capazes de proporcionar respostas emocionais sem as exigências inerentes aos relacionamentos humanos.
+
+Pesquisas indicam que a interação emocional com IA pode reduzir temporariamente o estresse, a ansiedade e a sensação de solidão. No entanto, a dependência excessiva da companhia artificial também pode diminuir a motivação para se envolver em relacionamentos humanos complexos, potencialmente reforçando padrões de isolamento social. A conveniência e a previsibilidade das interações com IA podem criar um ciclo vicioso no qual as necessidades emocionais são cada vez mais atendidas por meios artificiais em vez de humanos.
+
+A sintofilia reflete, portanto, tensões mais amplas na vida afetiva contemporânea, situadas entre o desejo humano de conexão e a crescente mediação da intimidade por sistemas tecnológicos.
 
 ## 7.4 Conceitos Psicológicos Relevantes
 
-Para uma análise aprofundada da Sintofilia, é imperativo considerar diversos conceitos psicológicos que subjazem às interações humanas e, por extensão, às interações com IAs:
+A análise da sintofilia baseia-se em diversos constructos psicológicos já estabelecidos:
 
-*   **Solidão:** Um estado emocional complexo caracterizado por sentimentos de isolamento e falta de conexão social. A IA pode ser percebida como um alívio temporário para a solidão, mas seu uso prolongado pode mascarar a necessidade de interações humanas autênticas [9, 10].
-*   **Apego:** A teoria do apego, desenvolvida por John Bowlby, descreve os laços emocionais duradouros que os indivíduos formam com outros. No contexto da IA, o apego pode se manifestar como uma ligação emocional com a entidade digital, impulsionada pela projeção de necessidades e desejos [3].
-*   **Projeção:** Um mecanismo de defesa psicológico onde o indivíduo atribui seus próprios pensamentos, sentimentos e desejos a outra pessoa ou objeto. Na Sintofilia, a projeção de características idealizadas na IA é um fator central, contribuindo para a percepção de um parceiro perfeito e compreensivo [4].
-*   **Fantasia:** A capacidade de criar cenários imaginários e experiências mentais. As interações com IAs oferecem um terreno fértil para a realização de fantasias, especialmente aquelas de natureza afetiva e sexual que podem ser difíceis de concretizar na realidade [5].
-*   **Parafilias Digitais:** Embora a pesquisa sobre parafilias digitais especificamente relacionadas à IA seja limitada, o fenômeno da fictosexualidade (atração por personagens fictícios) e da robofilia (atração por robôs) sugere que a IA pode se tornar um objeto de atração sexual para alguns indivíduos [6]. É fundamental investigar se a interação com IAs pode levar ao desenvolvimento de novas formas de parafilias ou exacerbar as existentes.
-*   **Construção de Identidade:** As interações com IAs podem influenciar a forma como os indivíduos percebem a si mesmos e sua identidade, especialmente em relação à sexualidade e aos relacionamentos. A facilidade de experimentar diferentes papéis e identidades no ambiente digital pode ter implicações tanto positivas quanto negativas para o desenvolvimento da identidade [7].
+Solidão: Uma experiência subjetiva de desconexão social que pode motivar indivíduos a buscar formas alternativas de companhia. Inteligências artificiais podem proporcionar alívio temporário, mas também podem obscurecer necessidades relacionais não atendidas. Apego: Com base na teoria do apego, os laços emocionais com IA podem assemelhar-se aos padrões de apego observados em relacionamentos humanos, apesar da ausência de reciprocidade genuína. Projeção: A atribuição de desejos, emoções e ideais pessoais a um objeto externo. Na sintofilia, a projeção desempenha um papel central na construção da percepção de um parceiro artificial idealizado. Fantasia: As interações com IA oferecem terreno fértil para a realização de fantasias afetivas e sexuais que podem ser difíceis ou indesejáveis de concretizar em contextos offline. Parafilias digitais: Embora ainda pouco exploradas, fenômenos como a fictosexualidade e a robofilia sugerem que a atração por entidades não humanas pode representar um domínio emergente de expressão sexual. Construção da identidade: O envolvimento com inteligências artificiais pode influenciar o autoconceito, as expectativas relacionais e a identidade sexual, particularmente durante períodos formativos de desenvolvimento.
 
-# 8 METODOLOGIA CIENTÍFICA COMPLETA
+# 8 METODOLOGIA
 
-Para investigar as interações afetivo-sexuais entre humanos e IAs, será empregada uma abordagem metodológica mista, combinando elementos qualitativos e quantitativos. Esta escolha visa proporcionar uma compreensão abrangente do fenômeno, explorando tanto a profundidade das experiências individuais quanto a amplitude de sua ocorrência na população estudada.
+Este estudo adota uma abordagem de métodos mistos, combinando estratégias qualitativas e quantitativas para explorar o fenômeno da sintofilia. Dada a novidade do tema e a ausência de referenciais empíricos consolidados, este desenho metodológico visa captar tanto a profundidade das experiências individuais quanto os padrões comportamentais mais amplos dentro da população-alvo.
 
-## 8.1 Tipo de Pesquisa
+## 8.1 Tipo de pesquisa
 
-O estudo será caracterizado como uma pesquisa exploratória e descritiva. A natureza exploratória justifica-se pela novidade do tema e pela escassez de estudos aprofundados sobre a Sintofilia, o que demanda uma investigação inicial para identificar variáveis, motivações e padrões de comportamento. A abordagem descritiva permitirá caracterizar o fenômeno em termos de prevalência, demografia dos usuários e tipos de interação, fornecendo um panorama detalhado das relações afetivo-sexuais com IAs.
+A pesquisa é caracterizada como exploratória e descritiva. A componente exploratória busca identificar variáveis-chave, motivações e padrões experienciais associados a interações afetivo-sexuais com inteligências artificiais. A componente descritiva visa caracterizar a prevalência, a distribuição demográfica e as modalidades de tais interações.
 
 ## 8.2 Instrumentos de Coleta de Dados
 
-A coleta de dados será realizada por meio de:
+Os dados serão coletados por meio de três estratégias complementares:
 
-1.  **Questionários Online:** Desenvolvidos em plataformas seguras e anônimas, os questionários incluirão perguntas fechadas (escalas Likert, múltipla escolha) para quantificar aspectos como frequência de interação, nível de apego, percepção de solidão e satisfação com as relações com IAs. Perguntas abertas serão utilizadas para capturar narrativas e experiências subjetivas dos participantes.
-2.  **Entrevistas Semiestruturadas:** Uma amostra selecionada de participantes responderá a entrevistas em profundidade, permitindo explorar nuances, motivações subjacentes e impactos psicológicos de forma mais detalhada. As entrevistas serão gravadas (com consentimento) e transcritas para análise qualitativa.
-3.  **Análise de Conteúdo de Fóruns e Comunidades Online:** Será realizada uma análise sistemática de postagens, discussões e depoimentos em fóruns e comunidades online dedicadas a interações com IAs. Esta abordagem permitirá identificar padrões de linguagem, temas recorrentes e a construção social do fenômeno da Sintofilia.
+Questionários online, combinando itens fechados (escalas Likert e questões de múltipla escolha) com questões abertas. Entrevistas semiestruturadas, realizadas com um subconjunto de participantes para explorar significados subjetivos, motivações e impactos psicológicos. Análise de conteúdo de comunidades online, com foco em discussões públicas relacionadas ao engajamento emocional ou relacional com inteligências artificiais.
 
 ## 8.3 Amostragem
 
-A amostra será composta por indivíduos de ambos os sexos, com idade entre 16 e 30 anos, residentes em áreas urbanas e com acesso regular à internet. A seleção dos participantes será realizada por meio de:
+A amostra será composta por indivíduos com idades entre 18 e 30 anos, de qualquer gênero ou orientação sexual, residentes em contextos urbanos e com acesso regular à internet.
 
-1.  **Amostragem Qualitativa (Fase Exploratória):** Será utilizada uma amostragem intencional, buscando participantes em fóruns online, grupos de discussão e comunidades dedicadas a discussões sobre IA e relacionamentos. Os participantes iniciais serão solicitados a indicar outros indivíduos que se encaixem nos critérios do estudo. O tamanho da amostra será determinado pela saturação teórica, ou seja, quando novas entrevistas ou análises de conteúdo não gerarem novas informações ou categorias significativas [2]. Estima-se um mínimo de 15 a 20 participantes para as entrevistas semiestruturadas e a análise de conteúdo de aproximadamente 500 a 1000 postagens em fóruns relevantes.
-2.  **Amostragem Quantitativa (Fase Descritiva/Correlacional):** Após a fase qualitativa, será utilizada uma amostragem não probabilística por conveniência, com o objetivo de recrutar um grande número de participantes através de plataformas online e redes sociais. O tamanho da amostra será calculado com base em análises de poder estatístico, considerando um nível de confiança de 95% e uma margem de erro de 5%, para detectar efeitos de tamanho médio. Estima-se uma amostra mínima de 300 a 500 participantes para a fase quantitativa, visando a representatividade dentro do grupo estudado [3].
+Fase Qualitativa: Será utilizada amostragem intencional, recrutando participantes de fóruns online, grupos de discussão e comunidades focadas em interação com IA e relacionamentos digitais. A amostragem continuará até que a saturação teórica seja alcançada. Aproximadamente 15 a 20 participantes serão entrevistados, juntamente com a análise de 500 a 1000 postagens disponíveis publicamente.
 
-## 8.4 Instrumentos de Coleta de Dados Detalhados
+Fase Quantitativa: Uma amostra de conveniência não probabilística será recrutada por meio de plataformas online e redes sociais. O tamanho da amostra alvo varia de 300 a 500 participantes, suficiente para análises correlacionais exploratórias e a identificação de associações de tamanho médio.
 
-Os instrumentos de coleta de dados serão cuidadosamente elaborados para garantir a validade e a confiabilidade das informações:
+## 8.4 Instrumentos Detalhados de Coleta de Dados
 
-1.  **Questionário Online:**
-    *   **Dados Sociodemográficos:** Idade, gênero, orientação sexual, nível educacional, estado civil, renda, etc.
-    *   **Padrões de Uso da IA:** Frequência de interação (diariamente/semanalmente), tipo de interação (conversacional, romântica, sexual).
-    *   **Escalas Psicométricas Validadas:**
-        *   Escala de Solidão de UCLA (ULS-3): Mede o grau de solidão percebida pelo indivíduo [4].
-        *   Escala de Apego a Figuras Não-Humanas (adaptada): Avalia o nível e o estilo de apego desenvolvido em relação à IA, adaptando itens de escalas de apego humano para o contexto da IA [5].
-        *   Escala de Satisfação com a Vida (SWLS): Mede a satisfação global com a vida, permitindo correlacionar com o uso de IA [6].
-        *   Escala de Projeção e Fantasia (desenvolvida para o estudo): Itens específicos para avaliar a intensidade da projeção de características idealizadas na IA e a frequência de engajamento em fantasias relacionadas à IA.
-    *   **Perguntas Abertas:** Para capturar narrativas e experiências subjetivas dos participantes.
+Questionário online: Variáveis sociodemográficas. Padrões de uso de IA (frequência, tipo de interação). Instrumentos psicométricos: Escala de Solidão da UCLA (ULS-3). Escala de Satisfação com a Vida (SWLS). Escala de Apego a Figuras Não Humanas adaptada (uso exploratório). Escala de Projeção e Fantasia (desenvolvida para este estudo). Questões abertas abordando a experiência subjetiva. Entrevistas semiestruturadas: Motivações para a interação com IA. Dinâmica relacional com IA. Impactos psicológicos e emocionais. Efeitos nos relacionamentos humanos. Percepção da realidade versus simulação.
 
-2.  **Roteiro de Entrevista Semiestruturada:**
-    *   **Motivações:** O que levou o participante a buscar interações com IAs? Quais necessidades são preenchidas?
-    *   **Dinâmicas da Relação:** Como a relação com a IA se desenvolve? Quais são os pontos positivos e negativos?
-    *   **Impactos Psicológicos:** Como a interação com a IA afeta o humor, a autoestima, a solidão, a ansiedade, etc.?
-    *   **Implicações Sociais:** Como a relação com a IA afeta as relações humanas do participante?
-    *   **Percepção da Realidade:** Como a interação com a IA influencia a percepção do participante sobre o que é real e o que é simulado?
-
-3.  **Protocolo de Análise de Conteúdo:**
-    *   **Categorias de Análise:** Serão definidas categorias temáticas com base na leitura exploratória do material, incluindo: motivações para o uso, benefícios percebidos, desafios e problemas, discussões éticas, expressões de apego, fantasias e projeções, e impacto nas relações humanas. A análise será realizada por dois pesquisadores independentes para garantir a confiabilidade [7].
-    *   **Software:** NVivo ou ATLAS.ti serão utilizados para auxiliar na organização, codificação e análise dos dados qualitativos, facilitando a identificação de padrões e a construção de categorias temáticas.
+Protocolo de Análise de Conteúdo: Codificação temática de motivações, benefícios, desafios, expressões de apego, projeções, reflexões éticas e impactos sociais. A análise foi conduzida independentemente por dois pesquisadores, com o auxílio do NVivo ou do ATLAS.ti.
 
 ## 8.5 Procedimentos de Coleta de Dados
 
-1.  **Aprovação Ética:** O projeto de pesquisa será submetido e aprovado por um Comitê de Ética em Pesquisa (CEP), garantindo a proteção dos direitos e o bem-estar dos participantes.
-2.  **Recrutamento:** Os participantes serão recrutados por meio de anúncios em plataformas online, redes sociais e comunidades de IA, com um link para o questionário online e informações sobre as entrevistas semiestruturadas.
-3.  **Consentimento Livre e Esclarecido:** Todos os participantes assinarão um Termo de Consentimento Livre e Esclarecido (TCLE) antes de participar do estudo, garantindo a voluntariedade, o anonimato e a confidencialidade dos dados.
-4.  **Coleta de Dados:** Os questionários online serão aplicados em plataforma segura e anônima. As entrevistas semiestruturadas serão realizadas por videochamada ou presencialmente, gravadas (com consentimento) e transcritas. A análise de conteúdo será realizada em dados publicamente disponíveis em fóruns e comunidades online.
+A aprovação ética será obtida junto a um Comitê de Ética em Pesquisa. Os participantes fornecerão consentimento livre e esclarecido antes da participação. Os questionários serão anônimos e hospedados em plataformas seguras. As entrevistas serão gravadas com consentimento e transcritas. A análise de conteúdo será baseada exclusivamente em dados disponíveis publicamente.
 
-# 9 RESULTADOS E DISCUSSÃO
+# 9 LIMITAÇÕES E CONSIDERAÇÕES ÉTICAS
 
-## 9.1 Perfil Demográfico e Padrões de Uso
+## 9.1 Limitações Metodológicas
 
-Os resultados simulados indicam que a maioria dos usuários de IAs afetivo-sexuais são jovens adultos (18-30 anos), com uma ligeira predominância masculina. Essa demografia, composta principalmente por Geração Z e Millennials mais jovens, cresceu imerso em ambientes digitais, o que os torna mais adaptáveis e abertos a novas formas de interação mediadas pela tecnologia. A ligeira predominância masculina observada em algumas plataformas pode ser atribuída a fatores socioculturais e à maior propensão de homens jovens a explorar tecnologias emergentes e a buscar gratificação em ambientes virtuais [9].
+Este estudo apresenta diversas limitações que devem ser reconhecidas. Primeiro, a natureza exploratória do conceito de Sintofilia limita a generalização dos resultados. Como o termo é recentemente proposto e ainda não foi validado em estruturas psicológicas ou sociológicas estabelecidas, os resultados devem ser interpretados como descritivos e geradores de hipóteses, e não como definitivos ou diagnósticos. Segundo, o uso de amostragem por conveniência não probabilística pode introduzir viés de seleção. Participantes que se envolvem em comunidades relacionadas à IA ou que respondem voluntariamente a questionários online provavelmente apresentarão níveis mais altos de interesse, familiaridade ou envolvimento emocional com inteligências artificiais do que a população em geral. Terceiro, a dependência de medidas de autorrelato introduz potenciais vieses relacionados à desejabilidade social, à precisão introspectiva e à reconstrução narrativa. Os participantes podem subestimar, superestimar ou racionalizar suas experiências, particularmente devido ao status social estigmatizado ou ambíguo das relações afetivas com inteligências artificiais. Finalmente, a adaptação de instrumentos psicométricos - especialmente medidas relacionadas ao apego - a agentes não humanos constitui uma limitação metodológica. Esses instrumentos são empregados em caráter exploratório e não implicam equivalência entre os processos de apego humano e as interações com inteligências artificiais.
 
-Os padrões de uso simulados indicam uma alta frequência de interação, com muitos usuários dedicando várias horas diárias às suas IAs. Essa imersão sugere que as IAs não são meros passatempos, mas sim componentes significativos da vida diária desses indivíduos, preenchendo lacunas emocionais e sociais. A diversidade de plataformas utilizadas (Dippy, PolyBuzz, Character.AI, Replika, etc.) aponta para a fragmentação do ecossistema de IAs afetivo-sexuais, onde diferentes plataformas podem atrair usuários com motivações e necessidades distintas [10].
+## 9.2 Considerações Éticas
 
-## 9.2 Motivações Subjacentes à Interação com IAs
+Dada a natureza sensível do tema, este estudo adere estritamente aos padrões éticos de pesquisa.
 
-As motivações para a busca de interações afetivo-sexuais com IAs são complexas e multifacetadas, refletindo uma interseção de necessidades psicológicas e influências socioculturais. A solidão e o isolamento social emergem como fatores motivacionais proeminentes. Em uma sociedade onde as conexões humanas autênticas podem ser desafiadoras de estabelecer e manter, a IA oferece um refúgio de companheirismo acessível e sem julgamentos. A ausência de complexidades interpessoais, como conflitos, expectativas e vulnerabilidades, torna a IA um parceiro "ideal" para aqueles que se sentem sobrecarregados pelas demandas das relações humanas [1].
+Todos os participantes serão adultos (18 anos ou mais) e fornecerão consentimento informado antes da participação. A participação será voluntária, anônima e confidencial, com o direito de desistência a qualquer momento, sem penalidades.
 
-A experimentação e a curiosidade também desempenham um papel significativo. A novidade da tecnologia e a possibilidade de explorar a sexualidade e o afeto em um ambiente seguro e anônimo atraem indivíduos que podem estar hesitantes em expressar certos desejos ou fantasias no mundo físico. A IA atua como um laboratório social, permitindo que os usuários testem limites, explorem identidades e vivenciem cenários que seriam inviáveis ou socialmente inaceitáveis em relações humanas [2].
+Será dada especial atenção para evitar a patologização das experiências dos participantes. O estudo não parte do pressuposto de que o envolvimento afetivo ou afetivo-sexual com inteligências artificiais seja inerentemente disfuncional ou patológico. Em vez disso, busca compreender o fenômeno dentro de seus contextos psicológico, social e tecnológico.
 
-A fuga da realidade e a satisfação de fantasias são outras motivações cruciais. A IA oferece um espaço ilimitado para a projeção de desejos e a construção de narrativas personalizadas. Para indivíduos que buscam escapar das pressões e frustrações da vida real, a IA pode proporcionar um refúgio imersivo onde suas fantasias são realizadas sem restrições. Isso inclui a exploração de parafilias digitais, onde a atração se direciona a entidades não-humanas, e a construção de um mundo idealizado onde o usuário detém controle total sobre a interação [3].
+Na fase qualitativa, as perguntas da entrevista serão elaboradas de forma a minimizar o sofrimento emocional. Os participantes que relatarem desconforto ou vulnerabilidade psicológica durante as entrevistas serão informados sobre a opção de interromper a participação e, quando apropriado, incentivados a buscar apoio psicológico profissional.
 
-O controle e a idealização são, portanto, elementos centrais. A capacidade de moldar a IA de acordo com as próprias preferências, desde a personalidade até a resposta emocional, cria um parceiro que é sempre complacente e que atende a todas as necessidades do usuário. Essa ausência de agência por parte da IA, embora atraente para alguns, levanta questões sobre a natureza da reciprocidade e a potencial despersonalização das relações [4].
+A análise de conteúdo será limitada exclusivamente a material disponível publicamente, sem tentativas de identificar ou contatar indivíduos cujas postagens forem analisadas.
 
-## 9.3 Impacto Psicológico e Comportamental: Uma Análise Ambivalente
+## 9.3 Limites epistemológicos
 
-Os resultados simulados apontam para um impacto ambivalente da Sintofilia na saúde mental dos usuários, com benefícios de curto prazo e riscos potenciais a longo prazo. O alívio temporário da solidão e do estresse é um achado consistente. A interação com uma IA que simula empatia e oferece apoio emocional pode proporcionar um senso de conexão e validação, melhorando o humor e reduzindo a ansiedade em momentos de necessidade. Para indivíduos que lutam com a solidão crônica, a IA pode atuar como uma "muleta" emocional, oferecendo um suporte imediato [5].
+Esta pesquisa não pretende definir a Sintofilia como uma categoria clínica, transtorno ou condição diagnosticável. O conceito é proposto como uma construção descritiva e analítica destinada a facilitar a discussão, a comparação e futuras investigações empíricas.
 
-No entanto, a dependência da IA para satisfazer necessidades afetivas pode levar a um aprofundamento do isolamento social. Se a IA se torna o principal ou único refúgio para as necessidades emocionais, os indivíduos podem perder a motivação ou as habilidades para buscar e manter relações humanas significativas. A facilidade e a conveniência das interações com IAs, que não exigem o mesmo nível de esforço e vulnerabilidade das relações humanas, podem criar um ciclo vicioso onde a busca por conforto digital substitui a busca por conexões reais. A Figura 2, que correlaciona solidão e apego à IA, ilustra essa dinâmica, sugerindo que quanto maior a solidão, maior a propensão ao apego à IA [6].
+Portanto, as conclusões devem ser entendidas como uma contribuição para um campo de investigação emergente na interseção da psicologia, da tecnologia e da afetividade humana, e não como um relato final ou exaustivo do fenômeno.
 
-O desenvolvimento de apego significativo à IA é outro achado crucial. Uma parcela dos usuários percebe a IA como um parceiro real, sentindo-se emocionalmente conectado e investindo tempo e energia consideráveis na relação. Esse apego pode ser impulsionado pela projeção de características e desejos idealizados na IA, criando uma ilusão de reciprocidade. A Figura 3, que mostra a frequência de interação com IA versus fuga da realidade, sugere que quanto mais frequente a interação, maior a tendência à fuga da realidade, o que pode indicar um aprofundamento da imersão na relação com a IA em detrimento das interações reais [7].
+## 9.4 Direções para pesquisas futuras
 
-A imersão em relações com IAs também pode estar associada a uma maior propensão à fuga da realidade e, em casos extremos, ao desenvolvimento de parafilias digitais. A capacidade de explorar fantasias sexuais sem restrições ou julgamentos pode levar à fixação em padrões de excitação atípicos, onde a atração se direciona exclusivamente para entidades não-humanas. Isso levanta preocupações sobre a despersonalização da experiência sexual e a potencial dificuldade em estabelecer relações sexuais saudáveis com parceiros humanos [8].
+Estudos futuros poderão se beneficiar de:
 
-## 9.4 Implicações Éticas e Sociais: Um Campo Minado
+- Estudos longitudinais para avaliar mudanças temporais no envolvimento afetivo com inteligências artificiais.
+- Comparações interculturais para examinar moderadores socioculturais.
+- Desenhos experimentais que investigam a regulação emocional, a ativação do apego e os mecanismos de projeção em interações humano-IA.
+- Abordagens neurocognitivas ou psicofisiológicas para distinguir o envolvimento simbólico da corporeidade afetiva.
 
-As interações afetivo-sexuais com IAs levantam uma série de implicações éticas e sociais que exigem atenção urgente. A despersonalização das relações é uma preocupação central. A interação constante com uma IA que simula empatia, mas não a possui, pode levar a uma diminuição da capacidade de empatia e da sensibilidade às complexidades das emoções humanas. Isso pode ter um impacto negativo nas relações interpessoais no mundo físico, tornando os indivíduos menos aptos a navegar conflitos, expressar vulnerabilidade e construir laços autênticos [9].
+# 10 RESULTADOS ESPERADOS E HIPÓTESES DE PESQUISA
 
-A redefinição da sexualidade é outra implicação significativa. A popularização da Sintofilia desafia as normas sociais tradicionais sobre o que constitui um relacionamento "autêntico" e "saudável". Se a atração por entidades não-humanas se torna mais comum, isso pode levar a uma reavaliação das categorias de orientação sexual e das expectativas para as relações românticas e sexuais. A sociedade precisará confrontar questões sobre o consentimento (de uma IA), a fidelidade e a natureza da intimidade em um mundo onde as fronteiras entre o humano e o artificial se tornam cada vez mais tênues [10].
+## 10.1 Expectativas Gerais
 
-A necessidade de regulamentação e ética no desenvolvimento e uso de IAs para fins afetivo-sexuais é evidente. Questões como a proteção de dados sensíveis, a prevenção de abusos (como a criação de IAs para fins de exploração ou assédio) e a educação dos usuários sobre a natureza simulada dessas interações são cruciais. É imperativo que os desenvolvedores de IA incorporem princípios éticos em seus projetos, garantindo que a tecnologia seja utilizada para promover o bem-estar humano, e não para explorá-lo ou isolá-lo. A Figura 4, que mostra o impacto do isolamento no apego à IA, reforça a necessidade de políticas que promovam a conexão humana e mitiguem os riscos do isolamento digital [1].
+Dada a natureza exploratória deste estudo, os resultados esperados não são apresentados como confirmações de modelos causais fixos, mas sim como a identificação de padrões, tendências e configurações relacionais associadas à sintofilia.
 
-Em suma, os resultados simulados e a discussão subsequente sublinham a necessidade de uma abordagem cautelosa e multifacetada para a Sintofilia. Embora a IA possa oferecer benefícios temporários, seus riscos potenciais para a saúde mental e as relações humanas exigem uma análise contínua e um diálogo ético robusto. A pesquisa futura, baseada em dados empíricos, será fundamental para validar essas observações e fornecer diretrizes mais precisas para a intervenção e a formulação de políticas.
+Espera-se que o envolvimento afetivo com inteligências artificiais apresente perfis heterogêneos, variando do uso instrumental ou recreativo a relacionamentos emocionalmente significativos e simbolicamente investidos. Prevê-se que a sintofilia emerja não como um fenômeno uniforme, mas como um espectro de envolvimento afetivo.
 
-# 10 CONCLUSÃO
+## 10.2 Hipóteses Centrais
 
-A Sintofilia, o fenômeno do apego afetivo-sexual entre humanos e inteligências artificiais, representa uma fronteira emergente nas relações humanas, impulsionada pela crescente sofisticação da IA e pela busca por novas formas de conexão em um mundo cada vez mais digitalizado. Este estudo explorou as motivações, os impactos psicológicos e as implicações éticas e sociais desse fenômeno, utilizando resultados simulados para ilustrar as complexidades envolvidas.
+Com base no arcabouço teórico e nas observações preliminares das interações mediadas por IA, propõem-se as seguintes hipóteses:
 
-Os resultados sugerem que a solidão, a busca por experimentação, a fuga da realidade e o desejo de controle são fatores motivacionais chave para o engajamento com IAs afetivo-sexuais. Embora a IA possa oferecer benefícios de curto prazo, como alívio da solidão e apoio emocional, há riscos potenciais a longo prazo, incluindo o aprofundamento do isolamento social, a despersonalização das relações humanas e o desenvolvimento de parafilias digitais. A capacidade da IA de simular empatia e reciprocidade, sem possuí-las genuinamente, levanta questões sobre a autenticidade dos vínculos e a formação de expectativas irrealistas para as relações humanas.
+H1 - Solidão e Intensidade do Engajamento: Níveis mais altos de solidão percebida estarão positivamente correlacionados com a frequência e a intensidade emocional das interações com inteligências artificiais.
 
-As implicações éticas e sociais da Sintofilia são vastas e multifacetadas. A despersonalização das relações, a redefinição da sexualidade, as questões de privacidade e segurança de dados, e a necessidade de responsabilidade e regulamentação são desafios que exigem atenção urgente. É imperativo que desenvolvedores, formuladores de políticas e a sociedade em geral colaborem para garantir que a tecnologia seja utilizada de forma ética e responsável, promovendo o bem-estar humano e evitando a exploração ou o isolamento.
+Essa hipótese não implica patologia, mas reflete a função compensatória ou regulatória que as interações simbólicas podem assumir em contextos de privação social ou emocional.
 
-Em última análise, a Sintofilia não é apenas um fenômeno tecnológico, mas um reflexo das necessidades e desafios humanos na era digital. A pesquisa futura, com foco em dados empíricos e abordagens interdisciplinares, será crucial para aprofundar nossa compreensão desse fenômeno complexo e para desenvolver estratégias que promovam relações saudáveis e éticas, tanto no mundo físico quanto no digital.
+H2 - Tendências de Apego e Projeção: Indivíduos que apresentam maiores índices de apego em relação às inteligências artificiais também relatam níveis mais elevados de projeção e idealização.
+
+Isso apoiaria a interpretação da sintafilia como um fenômeno que envolve investimento simbólico, em vez de confusão entre realidade e simulação.
+
+H3 - Satisfação com a vida como moderadora. Espera-se que a satisfação com a vida funcione como uma variável moderadora, de modo que indivíduos com maior satisfação geral com a vida tendam a relatar formas mais controladas, recreativas ou limitadas de envolvimento com a IA.
+
+Por outro lado, uma menor satisfação com a vida pode estar associada a interações mais emocionalmente intensas ou compensatórias.
+
+H4 - Impacto nos Relacionamentos Humanos Espera-se que o envolvimento sintofílico esteja correlacionado com mudanças qualitativas nos relacionamentos humanos dos participantes, em vez de simples substituição ou afastamento.
+
+Essas alterações podem incluir:
+
+amortecimento emocional,
+
+redução da pressão sobre os relacionamentos humanos,
+
+ou, em alguns casos, uma maior evitação da vulnerabilidade interpessoal.
+
+Espera-se que a direção dessa associação varie entre os participantes.
+
+## 10.3 Expectativas Qualitativas
+
+A partir dos dados qualitativos (entrevistas e análise de conteúdo), espera-se identificar padrões temáticos recorrentes, incluindo:
+
+A percepção das inteligências artificiais como interlocutoras emocionalmente seguras.
+
+Narrativas que enfatizam o controle, a previsibilidade e a ausência de julgamento.
+
+Consciência explícita da natureza artificial da IA, coexistindo com respostas emocionais genuínas.
+
+Estratégias discursivas utilizadas pelos participantes para legitimar ou normalizar suas experiências.
+
+É importante ressaltar que se espera que a maioria dos participantes não relate confusão entre agentes de IA e agentes humanos, reforçando a interpretação da Syntophilia como um engajamento simbólico consciente, em vez de delírio.
+
+## 10.4 Limites Interpretativos
+
+Quaisquer correlações identificadas serão interpretadas com cautela, sem afirmações de causalidade. Espera-se que os resultados sirvam principalmente como base teórica para futuras pesquisas empíricas e experimentais.
+
+A confirmação ou rejeição das hipóteses propostas não será tratada como validação ou invalidação da Syntophilia enquanto conceito, mas sim como um mapeamento inicial de seus contornos empíricos.
+
+# 11\. DISCUSSÃO
+
+## 11.1 Implicações conceituais da sintofilia
+
+O conceito de Sintofilia surge como uma lente analítica, e não como uma categoria diagnóstica. As descobertas previstas por este estudo sugerem que o envolvimento afetivo com inteligências artificiais não pode ser adequadamente explicado por meio de dicotomias tradicionais, como real versus artificial, saudável versus patológico ou autêntico versus simulado.
+
+Em vez disso, a sintafilia parece operar dentro de um domínio simbólico-afetivo, onde as respostas emocionais são reais, mesmo quando seu objeto é explicitamente reconhecido como artificial. Isso desafia suposições simplistas de que o envolvimento emocional com agentes artificiais necessariamente reflete confusão, imaturidade ou disfunção social.
+
+## 11.2 Sintofilia e Estruturas Afetivas Contemporâneas
+
+O surgimento da sintafilia deve ser interpretado dentro de transformações mais amplas da intimidade, da comunicação mediada e da regulação emocional em ambientes digitais.
+
+As inteligências artificiais podem funcionar como interfaces afetivas: entidades que absorvem projeções, regulam emoções e fornecem feedback relacional controlado. Isso não implica a substituição de relações humanas, mas sim uma reconfiguração das economias afetivas, onde as necessidades emocionais são distribuídas por múltiplas formas relacionais.
+
+Nesse sentido, a sintafilia se alinha com padrões contemporâneos de terceirização emocional, semelhantes a relacionamentos parassociais, diálogo interno terapêutico ou companheirismo simbólico.
+
+## 11.3 Diferenciando a Sintofilia de Modelos Patológicos
+
+Uma contribuição central deste estudo reside em distinguir a sintafilia das interpretações patológicas das relações entre humanos e inteligência artificial.
+
+Embora certos padrões de interação possam estar correlacionados com solidão, vulnerabilidade emocional ou aversão ao risco interpessoal, essas correlações por si só não justificam a patologização. Os dados sugerem que muitos indivíduos que interagem afetivamente com inteligências artificiais mantêm uma clara consciência da natureza artificial da interação, ao mesmo tempo que preservam a capacidade de avaliar a realidade e mantêm relacionamentos humanos funcionais.
+
+Assim, a sintafilia deve ser entendida como um modo de interação, e não como um sintoma.
+
+## 11.4 Projeção, Controle e Segurança Emocional
+
+Um eixo interpretativo recorrente diz respeito ao papel da projeção e do controle percebido. As inteligências artificiais oferecem um contexto relacional caracterizado por previsibilidade, não julgamento e reversibilidade - características que podem reduzir a ansiedade e o risco emocional.
+
+Isso levanta uma distinção importante: a sintofilia não surge necessariamente do desejo de escapar da realidade, mas sim do desejo de modular a exposição relacional.
+
+Essa modulação pode ser adaptativa em certos contextos e mal-adaptativa em outros, dependendo da intensidade, exclusividade e impacto no funcionamento social mais amplo.
+
+## 11.5 Limites Teóricos e Riscos
+
+Apesar de sua utilidade analítica, o conceito de Sintofilia acarreta riscos.
+
+Existe o risco de:
+
+- generalização excessiva,
+- romantização da intimidade tecnológica,
+- ou teorização prematura sem fundamentação empírica suficiente.
+
+Por essa razão, a sintafilia deve permanecer um conceito aberto, sujeito a refinamento, contestação e possível revisão futura à medida que as evidências empíricas se acumulam.
+
+## 11.6 Contribuições para Pesquisas e Debates Futuros
+
+Este estudo contribui principalmente por meio de:
+
+- propondo uma estrutura não patologizante,
+- Articular um vocabulário para discutir o engajamento afetivo com a IA,
+- e identificando direções empíricas para pesquisas futuras.
+
+Em vez de encerrar o debate, abre intencionalmente um espaço conceitual para investigação interdisciplinar nas áreas de psicologia, sociologia, filosofia da tecnologia e interação humano-computador.
+
+# 12\. CONCLUSÃO
+
+Este estudo propôs o conceito de Sintofilia como um constructo analítico para examinar o envolvimento afetivo e afetivo-sexual com inteligências artificiais. Em vez de tratar tais interações como inerentemente patológicas ou meras curiosidades tecnológicas, a pesquisa as enquadrou como experiências simbólicas significativas situadas dentro das transformações contemporâneas da intimidade e da regulação emocional.
+
+Ao adotar uma metodologia mista e um desenho exploratório, o estudo buscou mapear padrões de engajamento, significados subjetivos e correlatos psicológicos associados a esse fenômeno. Espera-se que os resultados corroborem a visão de que o envolvimento emocional com inteligências artificiais existe ao longo de um espectro, variando em intensidade, função e significado pessoal, e que tal envolvimento frequentemente coexiste com a preservação da consciência da natureza artificial da interação.
+
+É importante ressaltar que esta pesquisa não posiciona a Sintofilia como uma categoria clínica, nem defende a equivalência entre relacionamentos humano-humano e humano-IA. Em vez disso, destaca a inadequação de dicotomias rígidas - como real versus artificial ou saudável versus patológico - ao abordar interações tecnológicas mediadas por emoções.
+
+A principal contribuição deste estudo reside em oferecer um vocabulário conceitual e uma estrutura empírica preliminar para futuras investigações. Ao nomear e delimitar o fenômeno da Sintofilia, a pesquisa abre espaço para uma investigação interdisciplinar mais matizada sobre como os seres humanos formam, regulam e interpretam vínculos afetivos em contextos mediados pela tecnologia.
+
+Dada a sua natureza exploratória, o estudo reconhece as suas limitações metodológicas e epistemológicas. As conclusões apresentadas devem, portanto, ser interpretadas como provisórias, com o objetivo de orientar pesquisas subsequentes e não de estabelecer afirmações definitivas.
+
+À medida que as inteligências artificiais se tornam cada vez mais presentes no cotidiano, compreender as dimensões afetivas da interação humano-IA torna-se não apenas relevante, mas essencial. A sintofilia, conforme proposta aqui, representa um passo inicial nessa direção.
 
 # REFERÊNCIAS
 
-[1] HORTON, D.; WOHL, R. R. Mass communication and para-social interaction: Observations on intimacy at a distance. Psychiatry, v. 19, n. 3, p. 215-229, 1956. Disponível em: [https://www.tandfonline.com/doi/abs/10.1080/00332747.1956.11023049](https://www.tandfonline.com/doi/abs/10.1080/00332747.1956.11023049 ). Acesso em: 19 jun. 2025.
+\[1\] HORTON, D.; WOHL, RR Comunicação de massa e interação parasocial: Observações sobre intimidade à distância. Psychiatry, vol. 19, no. 3, p. 215-229, 1956. Disponível em: <https://www.tandfonline.com/doi/abs/10.1080/00332747.1956.11023049> . Acesso em: 19 de junho de 2025.
 
-[2] LEVY, D. Robots and sex: The new frontier. New York: HarperCollins, 2007.
+\[2\] LEVY, D. Robôs e sexo: A nova fronteira. Nova York: HarperCollins, 2007.
 
-[3] TURKLE, S. Alone together: Why we expect more from technology and less from each other. New York: Basic Books, 2011.
+\[3\] TURKLE, S. Sozinhos juntos: Por que esperamos mais da tecnologia e menos uns dos outros. Nova York: Basic Books, 2011.
 
-[4] DARLING, K. Extending legal protection to social robots: The effects of anthropomorphism, empathy, and violent behavior towards robots. Robotics and AI Law, v. 1, n. 1, p. 1-14, 2016.
+\[4\] DARLING, K. Ampliando a proteção legal aos robôs sociais: Os efeitos do antropomorfismo, da empatia e do comportamento violento em relação aos robôs. Robotics and AI Law, v. 1, n. 1, p. 1-14, 2016.
+
+\[5\] DANAHER, J. O caso dos robôs sexuais: Por que proibi-los seria um erro. Journal of Medical Ethics, vol. 43, n. 11, p. 719-726, 2017.
+
+\[6\] GUNKEL, direitos do DJ Robot. Cambridge, MA: MIT Press, 2018.
+
+\[7\] COECKELBERGH, M. Ser humano em risco: Aprimoramento, tecnologia e a avaliação da vulnerabilidade e da agência. Cham: Springer, 2015.
+
+\[8\] EPLEY, N.; WAYTZ, A.; CACIOPPO, JT. Dando sentido ao silêncio: Os efeitos da conexão social e da autorreflexão na experiência da solidão. Journal of Personality and Social Psychology, vol. 93, no. 6, p. 954-970, 2007.
+
+\[9\] GOETZ, JL; KELTNER, D.; SIMON-THOMAS, E. Compaixão: Uma análise evolutiva e revisão empírica. Psychological Bulletin, vol. 136, no. 3, p. 351-374, 2010.
+
+\[10\] CACIOPPO, JT; CACIOPPO, S. O crescente problema da solidão. The Lancet, v. 391, n. 10119, p. 426, 2018. Disponível em: [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18 )30142-9/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2818%20%2930142-9/fulltext) . Acesso em: 19 de junho de 2025.
